@@ -1,10 +1,12 @@
 
 import PyPDF2 
+import slate3k as slate
 import pandas as pd
 import os
 import pickle
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
+import re
 trainloc = "./train/"
 testloc = "./test/"
 outputloc = "./output/"
@@ -16,43 +18,70 @@ def get_input(fileloc,filetype):
     for file in os.listdir(fileloc):
         #print(file)
         if file.endswith(".pdf"):
-            #print(os.path.join(fileloc, file))
-            #print(fileloc+"/"+file)
-            #print(file.split('_')[0])
-            pdfFileObj = open(fileloc+"/"+file, 'rb') 
-            pdfReader = PyPDF2.PdfFileReader(pdfFileObj) 
-            print(pdfReader.numPages) 
+            #pdfFileObj = open(fileloc+"/"+file, 'rb') 
+            #pdfReader = PyPDF2.PdfFileReader(pdfFileObj) 
+            #print(pdfReader.numPages) 
+            with open(fileloc+"/"+file, 'rb') as f:
+                pages = slate.PDF(f)
+            print(len)
             page_content=""                # define variable for using in loop.
             search_word = "LIBOR"
+            search_word2 = '(libor unavailability) | (unavailability of libor)'
+            #search_word2 = '(deutsche bank) | (interest rate)'
             search_word_count = 0
-            startpos = 0
+            startpos = -1
+            startpos2 = -1
             startpage = 0
+            pagepos = -1
+            pagepos2 = -1
             startpagepos = -1
+            startpage2 = 0
+            startpagepos2 = -1
             snippet = ""
+            snippet2 = ""
+            hasfallback = "N"
             snippetlen = 30
-            for page_number in range(pdfReader.numPages):
-                page = pdfReader.getPage(page_number)
-                text = page.extractText()#.encode('utf-8')
+            for page_number in range(len(pages)):
+                #page = pdfReader.getPage(page_number)
+                text = pages[page_number]#page.extractText()#.encode('utf-8')
                 pagepos = text.lower().find(search_word.lower())
+                if re.search(search_word2,text.lower()) is not None:
+                    pagepos2 = re.search(search_word2,text.lower()).start()
+                
                 if pagepos!=-1:
                     search_word_count += 1
                     if(startpage==0):
                         startpage = page_number+1
                         startpagepos=pagepos
+                if pagepos2!=-1:
+                    if(startpage==0):
+                        startpage2 = page_number+1
+                        startpagepos2=pagepos2
 
                 page_content += text
             
             startpos = page_content.find(search_word)
+            if re.search(search_word2,page_content.lower()) is not None:
+                startpos2 = re.search(search_word2,page_content.lower()).start()
+
             if startpos>=0:
                 if(startpos-snippetlen >=0):
                     snippet = page_content[startpos-snippetlen:startpos+snippetlen]
                 else:
                     snippet = page_content[0:startpos+snippetlen]
+            if startpos2>=0:
+                hasfallback = "Y"
+                if(startpos2-snippetlen >=0):
+                    snippet2 = page_content[startpos2-snippetlen:startpos2+snippetlen]
+                else:
+                    snippet2 = page_content[0:startpos2+snippetlen]
+
+
 
             if(filetype=="training"):
                 d = {'file':str(file),'class':str(file.split('_')[0]),'txt':page_content}
             else:
-                d = {'file':str(file),'txt':page_content,'LIBOR_startpage':startpage,'LIBOR_startpageposition':startpagepos,'LIBOR_docposition':startpos,'LIBOR_startsnippet':snippet}#'LIBOR_count':search_word_count,
+                d = {'file':str(file),'txt':page_content,'LIBOR_startpage':startpage,'LIBOR_startpageposition':startpagepos,'LIBOR_docposition':startpos,'LIBOR_startsnippet':snippet,'fallbackPresent':hasfallback,'fallbackPosition':startpos2,'fallbackPage':startpage2,'fallbackText':snippet2,'fallbackTextComplexity':0 }
             
             df = df.append(d,ignore_index=True)
     
@@ -140,34 +169,82 @@ def info_extract(text):
             entity2 = entity2+' '+chunk.text
         elif (chunk.root.head.text == entity1) :
             entity1 = entity2+' '+chunk.text
-        elif (entity1 != '') and (link !='') and (entity2 != ''):
+        elif (entity1 != '') and (entity2 != ''): #and (link !='') 
             break
 
     #import re
     #print('Entity 1: ',re.sub(' +', ' ',entity1))
     #print('Entity 2: ',entity2)
-
-    return entity1,entity2
-    """
-    import spacy
-    nlp = spacy.load("en_core_web_sm")
+    from spacy.matcher import Matcher
     doc = nlp(text)
-    from spacy.matcher import PhraseMatcher
- 
-    def on_match(matcher, doc, id, matches):
-      print('Matched!', matches)
-
-    matcher = PhraseMatcher(nlp.vocab)
-    matcher.add("LIBOR", on_match, nlp("LIBOR"))
-    #matcher.add("HEALTH", on_match, nlp("health care reform"),
-    #                              nlp("healthcare reform"))
-    #doc = nlp("Barack Obama urges Congress to find courage to defend his healthcare reforms")
+    matcher = Matcher(nlp.vocab)
+    pattern = [{"LOWER": "effective"}, {"LOWER": "date"},{"IS_PUNCT": True},{"ENT_TYPE":"DATE","OP":"*"}]#{"ENT_TYPE": "DATE","OP":"*"}]
+    matcher.add("Effective Date", None, pattern)
     matches = matcher(doc)
-    matches
-    #for ent in doc.ents:
-    #    if()
-    #    print(ent.text, ent.start_char, ent.end_char, ent.label_)
-    """
+    matchtext = ""
+    for match_id, start, end in matches:
+        string_id = nlp.vocab.strings[match_id]  # Get string representation
+        span = doc[start:end]  # The matched span
+        matchtext = span.text
+        #print(match_id, string_id, start, end, span.text)
+    #print('matchtext:',matchtext)
+    subdoc = nlp(matchtext)
+    effective_date = ''
+    for ent in subdoc.ents:
+        if(ent.label_ == 'DATE'): 
+            effective_date = ent.text
+    #print(effective_date)
+    
+    ########################
+    
+    doc = nlp(text)
+    matcher = Matcher(nlp.vocab)
+    pattern = [{"LOWER": "termination"}, {"LOWER": "date"},{"IS_PUNCT": True},{"ENT_TYPE":"DATE","OP":"+"}]#{"ENT_TYPE": "DATE","OP":"*"}]
+    matcher.add("Termination Date", None, pattern)
+    matches = matcher(doc)
+    matchtext = ""
+    for match_id, start, end in matches:
+        string_id = nlp.vocab.strings[match_id]  # Get string representation
+        span = doc[start:end]  # The matched span
+        matchtext = span.text
+        #print(match_id, string_id, start, end, span.text)
+    #print('matchtext:',matchtext)
+    subdoc = nlp(matchtext)
+    termination_date = ''
+    for ent in subdoc.ents:
+        if(ent.label_ == 'DATE'): 
+            termination_date = ent.text
+    #print(termination_date)
+
+    ##########################################
+
+    doc = nlp(text.replace(" USD ", " $ "))
+    #for ent in doc.ents: 
+        #print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+    #for tok in doc: 
+        #print("token start<",tok.text,">token end")#, "-->",tok.dep_,"-->", tok.pos_)
+
+    matcher = Matcher(nlp.vocab)
+    pattern = [{"LOWER": "notional"}, {"LOWER": "amount"},{"IS_PUNCT": True},{"TEXT": '$'},{"ENT_TYPE":"MONEY","OP":"*"}]
+    matcher.add("Notional Amount", None, pattern)
+    matches = matcher(doc)
+    matchtext = ""
+    for match_id, start, end in matches:
+        string_id = nlp.vocab.strings[match_id]  # Get string representation
+        span = doc[start:end]  # The matched span
+        matchtext = span.text
+        #print(match_id, string_id, start, end, span.text)
+    #print('matchtext:',matchtext)
+    subdoc = nlp(matchtext)
+    notional_amt = ''
+    for ent in subdoc.ents:
+        if(ent.label_ == 'MONEY'): 
+            notional_amt = ent.text
+    #print(notional_amt)
+
+    return entity1,entity2,effective_date,termination_date,'USD',notional_amt
+
 
 
 
@@ -178,7 +255,7 @@ if __name__ == "__main__":
     df = get_input(testloc,"testing")
     df = doc_predict(df)
     #print(df['txt'].apply(info_extract))
-    df['entity1'],df['entity2'] = zip(*df['txt'].apply(info_extract))
+    df['entity1'],df['entity2'],df['startdate'],df['terminationdate'],df['currency'],df['amount'] = zip(*df['txt'].apply(info_extract))
     df.loc[:, df.columns != 'txt'].to_csv(outputloc+'output.csv',index=False)
     pass
 
