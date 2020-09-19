@@ -1,0 +1,1 @@
+Interest duration will be 2 months if the Borrowing does not specify specify Interest duration of LIBOR Advances. Bank will rely on information provide in Invoice Transmittal, Borrowing Base Certificate and Notice of Borrowing. Borrower will be responsible for any loss suffered by the Bank suffered by the bank due to this.

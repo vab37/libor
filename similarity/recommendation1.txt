@@ -1,0 +1,2 @@
+The aggregate face amount of all Financed Receivables outstanding at any time may not exceed the Facility Amount. The aggregate amount of all
+Purchase Order Advances outstanding at any time may not exceed the Purchase Order Sublimit. At any time, (i) the sum of outstanding Purchase Order Advances plus outstanding Account Advances plus outstanding Non-Formula Advances may not exceed (ii) Ten Million Dollars ($10,000,000).
