@@ -10,8 +10,6 @@ Other commands\
 python -m spacy download en_core_web_sm
 
 ## Similarity algo working
-Similarity folder contains the following files:
-recommendation1-4.txt: these are text we would like to recommend. File names can be changed to any name and any number of such documents can be added \ 
-inputtext.txt: This is the text which will be matched to the recommended text. The file name should be kept same
-Run similar.py. The program displays the recommended document which matches the inputtext.txt
+Run similar.py using a commandline instruction below (2 text strings as commandline argument) and it returns the similarity between the strings on commandline \
+python similar.py "Interest duration will be 2 months if the Borrowing does not specify specify Interest duration of LIBOR Advances. Bank will rely on information provide in Invoice Transmittal, Borrowing Base Certificate and Notice of Borrowing. Borrower will be responsible for any loss suffered by the Bank suffered by the bank due to this." "the duration of the Interest Period applicable to any such LIBOR Advances included in such notice; provided that if the Notice of Borrowing shall fail to specify the duration of the Interest Period for any Advance comprised of LIBOR Advances, such Interest Period shall be one (1) month. Bank may rely on information set forth in or provided with the Invoice Transmittal, Borrowing Base Certificate, Purchase Order Transmittal and Notice of Borrowing. Borrower will indemnify Bank for any loss Bank suffers due to such reliance."
 
