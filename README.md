@@ -15,6 +15,6 @@ python similar.py "Interest duration will be 2 months if the Borrowing does not 
 
 ## Classify.py algo working
 Sample command takes location of the file to be classified and parameters to suppress any warnings on commandline. Outputs the predicted class of the document: \
-python -W ignore classify.py './test/irswap_DEUTSCHE BANK_LIBOR_TEXT_edit.pdf' \
+python -W ignore classify.py './test/irswap_DEUTSCHE BANK_LIBOR_TEXT_edit.pdf' 
 
 Also make sure model folder contains the required model
