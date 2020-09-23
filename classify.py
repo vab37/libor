@@ -1,5 +1,3 @@
-
-import PyPDF2 
 import slate3k as slate
 import pandas as pd
 import os
