@@ -1,16 +1,4 @@
 LIBOR_docposition,LIBOR_startpage,LIBOR_startpageposition,LIBOR_startsnippet,fallbackPage,fallbackPosition,fallbackPresent,fallbackText,fallbackTextComplexity,file,predictions,entity1,entity2,startdate,terminationdate,currency,amount
-122384.0,35.0,211.0,"loating Rate Option: 
-
-   USD-LIBOR-BBA (as defined in this ",0.0,-1.0,N,,0.0,curswap_Currency-Swap-Agreement-LIBOR - Copy (5).pdf,curswap,Macquarie Securities Management,Party B.,,,USD,
-4499.0,2.0,974.0,"ermination Date 
-
-3.41% 
-
-USD-LIBOR-BBA 
-
-Three months 
-
-Non",0.0,-1.0,N,,0.0,irswap_DEUTSCHE BANK_LIBOR_TEXT.pdf,irswap,Deutsche Bank AG,MagnaChip Semiconductor S.A.,,,USD,
 4500.0,2.0,974.0,"ermination Date 
 
 3.41% 
@@ -20,29 +8,11 @@ USD-LIBOR-BBA
 Three months 
 
 Non",0.0,-1.0,N,,0.0,irswap_DEUTSCHE BANK_LIBOR_TEXT_edit.pdf,irswap,Deutsche Bank AG,MagnaChip Semiconductor S.A.,"June 27, 2019","June 15, 2022",USD,"300,000,000.00"
-4520.0,2.0,1045.0,"ermination Date 
-
-3.41% 
-
-USD-LIBOR-BBA 
-
-Three months 
-
-Non",0.0,-1.0,N,,0.0,irswap_Interest rate Swap - Copy (5).pdf,irswap,Deutsche Bank AG,MagnaChip Semiconductor S.A.,,,USD,
 -1.0,0.0,-1.0,,0.0,-1.0,N,,0.0,isda_COMERICA_NONLIBOR_TEXT.pdf,isda,the provisions,"the other 
 
 provisions",,The day,USD,
--1.0,0.0,-1.0,,0.0,-1.0,N,,0.0,isda_ISDA-Master-Agreement-MorganStanly - Copy.pdf,isda,the provisions,"the 
-
-other provisions",,The day,USD,
--1.0,0.0,-1.0,,0.0,-1.0,N,,0.0,mortgage_mortgage-loan-purchase.pdf,mortgage,the Responsible Party,the Seller,,,USD,
 -1.0,0.0,-1.0,,0.0,-1.0,N,,0.0,mortgage_WELLS FARGO-NONLIBOR_TEXT.pdf,mortgage,THE ENTITIES,WARRANTIES,,,USD,
--1.0,0.0,-1.0,,0.0,-1.0,N,,0.0,normal_Loan-agreement-BANKOFAMERICA-another.pdf,normal,BANK,Charlotte,,,USD,
 1021.0,1.0,1021.0," 2.10.      Unavailability of LIBOR; Illegality 
 SECTION 2.1",0.0,1002.0,Y,"thholdings 
 SECTION 2.10.      Unavailability of LIBOR; Ille",0.0,syndicate_CREDIT AGRICOLE_LIBOR_TEXT.pdf,syndicate,an informed and willing buyer,an in formed and willing seller,,,USD,
-1049.0,1.0,1049.0," 2.10.      Unavailability of LIBOR; Illegality 
-SECTION 2.1",0.0,1030.0,Y,"thholdings 
-SECTION 2.10.      Unavailability of LIBOR; Ille",0.0,syndicate_Syndicate-loan-LIBOR - Copy.pdf,syndicate,an informed and willing buyer,an informed and willing seller,,,USD,
 1948.0,1.0,1948.0,n the rate per annum added to LIBOR to determine the Revolvi,0.0,-1.0,N,,0.0,term_GUARANTY BANK_LIBOR_TEXT.pdf,mortgage,BIRNER DENTAL MANAGEMENT SERVICES,TRUST COMPANY,,,USD,
--1.0,0.0,-1.0,,0.0,-1.0,N,,0.0,term_Loan agreement-GE - Copy.pdf,term,the Security Trustee,each Loan Party,,,USD,
