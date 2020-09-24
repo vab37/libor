@@ -18,3 +18,10 @@ Sample command takes location of the file to be classified and parameters to sup
 python -W ignore classify.py './test/irswap_DEUTSCHE BANK_LIBOR_TEXT_edit.pdf' 
 
 Also make sure model folder contains the required model
+
+## Extract.py algo working
+Sample command takes location of the file to be extracted and parameters to suppress any warnings on commandline. Outputs the json of the information extracted: \
+python -W ignore extract.py './test/irswap_DEUTSCHE BANK_LIBOR_TEXT_edit.pdf' 
+
+Sample output:\
+{"entity1":"Deutsche Bank AG","entity2":"MagnaChip Semiconductor S.A.","startdate":"June 27, 2019","terminationdate":"June 15, 2022","currency":"USD","amount":"300,000,000.00"}
