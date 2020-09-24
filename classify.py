@@ -6,7 +6,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
 import re
 import sys
-import warnings
 
 #print ('Number of arguments:', len(sys.argv), 'arguments.')
 #print ('Argument List:', str(sys.argv))
