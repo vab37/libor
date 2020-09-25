@@ -1,0 +1,291 @@
+INTEREST RATE SWAP TRANSACTION LETTER AGREEMENT 
+Deutsche Bank   
+ 
+Aktiengesellschaft 
+    
+  
+Date:    June 30, 2019 
+  
+To:    MagnaChip Semiconductor S.A. 
+  
+Attention: Swaps Documentation Department 
+   
+Facsimile no.:    82 2 3459 3689 
+  
+Our Reference: Global No. N397355N 
+   
+  
+Re:    Interest Rate Swap Transaction 
+  
+Ladies and Gentlemen: 
+  
+The purpose of this letter agreement is to set forth the terms and conditions of the Transaction entered into 
+between Deutsche Bank AG (“DBAG”) and MagnaChip Semiconductor S.A. (“Counterparty”) on the Trade 
+Date specified below (the “Transaction”). This letter agreement constitutes a “Confirmation” as referred to in 
+the Agreement specified below. 
+  
+The definitions and provisions contained in the 2000 ISDA Definitions (the “Definitions”) as published by the 
+International Swaps and Derivatives Association, Inc. are incorporated by reference herein. In the event of any 
+inconsistency between the Definitions and this Confirmation, this Confirmation will govern. 
+  
+For the purpose of this Confirmation, all references in the Definitions or the Agreement to a “Swap Transaction” 
+shall be deemed to be references to this Transaction. 
+  
+1. This Confirmation evidences a complete and binding agreement between DBAG (“Party A”) and 
+Counterparty (“Party B”) as to the terms of the Transaction to which this Confirmation relates. In addition, Party 
+A and Party B agree to use all reasonable efforts to negotiate, execute and deliver an agreement in the form of 
+the ISDA 2002 Master Agreement with such modifications as Party A and Party B will in good faith agree (the 
+“ISDA Form” or the “Agreement”). Upon execution by the parties of such Agreement, this Confirmation will 
+supplement, form a part of and be subject to the Agreement. All provisions contained or incorporated by 
+reference in such Agreement upon its execution shall govern this Confirmation except as expressly modified 
+below. Until Party A and Party B execute and deliver the Agreement, this Confirmation, together with all other 
+documents referring to the ISDA Form (each a “Confirmation”) confirming Transactions (each a “Transaction”) 
+entered into between us (notwithstanding anything to the contrary in a Confirmation) shall supplement, form a 
+part of, and be subject to an agreement in the form of the ISDA Form as if Party A and Party B had executed an 
+agreement on the Trade Date of the first such Transaction between us in such form, with the Schedule thereto (i) 
+specifying only that (a) the governing law is English law, provided, that such choice of law shall be superseded 
+by any choice of law provision specified in the Agreement upon its execution, and (b) the Termination Currency 
+is U.S. Dollars and (ii) incorporating the addition to the definition of “Indemnifiable Tax” contained in (page 49 
+of) the ISDA “User’s Guide to the 2002 ISDA Master Agreements”. 
+ 
+2. The terms of the particular Transaction to which this Confirmation relates are as follows: 
+  
+Notional Amount: USD 300,000,000.00    
+ 
+Trade Date: June 23, 2019 
+   
+ 
+  
+Effective Date: June 27, 2019    
+ 
+  
+Termination Date: June 15, 2022 
+   
+ 
+  
+Fixed Amounts:      
+  
+Fixed Rate Payer: Counterparty 
+   
+  
+Fixed Rate Payer Period End Dates: The 15th day of March, June, 
+September and December of each 
+year, commencing September 15, 
+2019, through and including the 
+   Termination Date with No Adjustment 
+  Fixed Rate Payer Payment Dates: The 15th day of March, June, 
+September and December of each 
+year, commencing September 15, 
+2019, through and including the 
+   Termination Date 
+  
+Fixed Rate: 4.09% 
+   
+  
+Fixed Rate Day Count Fraction:    30/360 
+  
+Fixed Rate Payer Business Days: New York 
+   
+  
+Fixed Rate Payer Business Day 
+Convention: Modified Following 
+   
+  
+Floating Amounts:      
+  
+Floating Rate Payer: DBAG 
+   
+  
+Floating Rate Payer Period End Dates: The 15th day of March, June, 
+September and December of each 
+year, commencing September 15, 
+2019, through and including the 
+   Termination Date with No Adjustment 
+  
+Floating Rate Payer Payment Dates: The 15th day of March, June, 
+September and December of each 
+year, commencing September 15, 
+2019, through and including the 
+Termination Date 
+   
+  
+Floating Rate for initial Calculation 
+Period: 3.41% 
+   
+  
+Floating Rate Option:    USD-LIBOR-BBA 
+  
+Designated Maturity: Three months 
+   
+  
+Spread:    None 
+  
+Floating Rate Day Count Fraction: 30/360 
+   
+  
+Reset Dates: The first Floating Rate Payer Business 
+Day of each Calculation Period or 
+Compounding Period, if 
+Compounding is applicable. 
+   
+  
+Compounding:    Inapplicable 
+  
+Floating Rate Payer Business Days: New York 
+   
+  
+Floating Rate Payer Business Day 
+Convention: Modified Following 
+   
+  
+2 
+ 
+3. Other Provisions 
+  
+The “Cross Default” provisions of Section 5(a)(vi) of the ISDA Form will apply to Party B. 
+  
+Each of the following shall constitute an Additional Termination Event: 
+  
+A. Party B’s obligations to Party A under this Agreement: 
+  
+(i) cease to be secured pursuant to the Security Documents (as such term is defined in the Credit 
+Agreement); or 
+  
+(ii) cease to be equally and ratably secured with Party B’s obligations to the Lender (as such term is 
+defined in the Credit Agreement) under the Credit Agreement pursuant to the relevant Security 
+Documents; or 
+  (iii) cease to be guaranteed pursuant to the Guarantees (as such term is defined in the Credit 
+Agreement) at any time for any reason. 
+  
+B. Any collateral under the Security Documents is released at any time when Party A, or an Affiliate of 
+Party A, is not a party to the Credit Agreement, unless Party A shall have consented in writing prior to 
+such release (such consent not to be unreasonably withheld). 
+  
+For the purpose of the foregoing Termination Events, the Affected Party shall be Party B. 
+  
+As used herein and throughout this Agreement, “Credit Agreement” means that U.S. $100,000,000 
+Credit Agreement dated as of December 23, 2004, among MagnaChip Semiconductor S.A. and 
+MagnaChip Semiconductor Finance Company as Borrowers, MagnaChip Semiconductor LLC and The 
+Other Guarantors Party Hereto, as Guarantors, The Lenders Party Hereto, UBS Securities LLC as 
+Arranger, Bookmanager, Documentation Agent and Syndication Agent, and Korea Exchange Bank, as 
+Issuing Bank and UBS AG, Stamford Branch, as Administrative Agent and Collateral Agent, and UBS 
+Loan Finance LLC, as Swingline Lender, as may be amended and supplemented from time to time. 
+  
+4. Set-Off 
+  
+Upon the designation of any Early Termination Date, the party that is not the Defaulting Party or Affected Party 
+(“X”) may, without prior notice to the Defaulting or Affected Party (“Y”), set off any sum or obligation 
+(whether or not arising under this Agreement, whether matured or unmatured, whether or not contingent and 
+irrespective of the currency, place of payment or booking office of the sum or obligation) owed by Y to X or 
+any Affiliate of X (the “X Set Off Amount”) against any sum or obligation (whether or not arising under this 
+Agreement, whether matured or unmatured, whether or not contingent and irrespective of the currency, place of 
+payment or booking office of the sum or obligation) owed by X or any Affiliate of X to Y (the “Y Set Off 
+Amount”). X will give notice to the other party of any set off effected under this Section 6(f). 
+  
+For this purpose, either the X Set Off Amount or the Y Set Off Amount (or the relevant portion of such set off 
+amounts) may be converted by X into the currency in which the other set off amount is denominated at 
+  
+3 
+ 
+the rate of exchange at which X would be able, acting in a reasonable manner and in good faith, to purchase the 
+relevant amount of such currency. 
+  
+If a sum or obligation is unascertained, X may in good faith estimate that obligation and set-off in respect of the 
+estimate, subject to the relevant party accounting to the other when the obligation is ascertained. 
+  
+Nothing in this Section 6(f) shall be effective to create a charge or other security interest. This Section 6(f) shall 
+be without prejudice and in addition to any right of set-off, combination of accounts, lien or other rights to 
+which any party is at any time otherwise entitled (whether by operation of law, contract or otherwise). 
+  
+5. Account Details: 
+  
+USD DBAG Payment Instructions: 
+     
+Account With:    Deutsche Bank AG, New York 
+SWIFT Code: DEUTUS33 
+   
+Favor Of:    Deutsche Bank AG, New York 
+Account Number: 100440170004 
+   
+  
+USD Counterparty Payment Instructions:      
+PLEASE PROVIDE AT YOUR EARLIEST CONVENIENCE 
+  
+6. Offices: 
+  
+The Office of DBAG for this Transaction is New York. 
+  
+The Office of Counterparty for this Transaction is Luxembourg. 
+  
+7. Calculation Agent: 
+  
+The party specified as such in the Agreement, or if not specified therein, DBAG. 
+  
+8. Representations   
+Counterparty, if it is a nonresident alien individual, foreign corporation, foreign partnership, foreign trust, or 
+foreign estate, represents that it is a foreign person for purposes of US Treasury regulations relating to 
+information reporting and backup withholding. 
+  
+Each party will be deemed to represent to the other party on the date on which it enters into this Transaction that 
+(absent a written agreement between the parties that expressly imposes affirmative obligations to the contrary 
+for this Transaction): 
+  
+(i) Non-Reliance. It is acting for its own account, and it has made its own independent decisions to 
+enter into this Transaction and as to whether this Transaction is appropriate or proper for it based upon 
+its own judgement and upon advice from such advisers as it has deemed necessary. It is not relying on 
+any communication (written or oral) of the other party as investment advice or as a recommendation to 
+enter into this Transaction; it being understood that information and explanations related to the terms 
+and conditions of this Transaction shall not be considered investment advice or a recommendation to 
+enter into this Transaction. No communication (written or oral) received from the other party shall be 
+deemed to be an assurance or guarantee as to the expected results of this Transaction. 
+  
+(ii) Assessment and Understanding. It is capable of assessing the merits of and understanding (on its 
+own behalf or through independent professional advice), and understands and accepts, the terms, 
+conditions and risks of this Transaction. It is also capable of assuming, and assumes, the risks of this 
+Transaction. 
+  
+(iii) Status of Parties. The other party is not acting as a fiduciary for, or an adviser to it in respect of 
+this Transaction. 
+  
+4 
+ 
+9. Please confirm that the foregoing correctly sets forth the terms of our agreement by having an authorized 
+officer sign this Confirmation and return it via facsimile or e-mail to: 
+  
+Attention: Derivative Documentation 
+Telephone: 44 20 7547 4755 
+Facsimile: 44 20 7545 9761 
+E-mail: Derivative.Documentation@db.com 
+  
+This message will be the only form of Confirmation dispatched by us. If you wish to exchange hard copy forms 
+of this Confirmation, please contact us. 
+  
+Yours sincerely, 
+  
+Deutsche Bank AG 
+  
+By: 
+  
+ 
+Name:   Gaby Bolton 
+Authorized Signatory 
+  
+By: 
+  
+ 
+Name: Jamie Hunt 
+  
+Authorized Signatory 
+ 
+Confirmed as of the date first written above: 
+  
+MagnaChip Semiconductor S.A. 
+  By: 
+  
+ 
+Name:   Robert Krakauer 
+Title: CFO 
+  
+  
+5 
+ 

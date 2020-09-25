@@ -1,0 +1,2019 @@
+LOAN AGREEMENT 
+Exhibit 10.3 
+  
+  
+LOAN AGREEMENT 
+Dated as of July 15, 2019 
+among 
+GREAT WOLF LODGE OF THE CAROLINAS, LLC, 
+as Borrower, 
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, 
+as Lender, 
+DEUTSCHE BANK TRUST COMPANY AMERICAS, 
+as Lender, 
+DEUTSCHE BANK SECURITIES INC., 
+as Syndication Agent, 
+and 
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, 
+as Agent for the Lenders 
+  
+  
+ 
+TABLE OF CONTENTS 
+  
+            Page   
+  
+ARTICLE I DEFINITIONS   1    
+   
+SECTION 1.1.     Def initions      1    
+SECTION 1.2. Other Definitional Provisions   26    
+        
+  
+ARTICLE II THE LOAN      26    
+SECTION 2.1. The Loan; Use of Funds   26    
+        
+SECTION 2.2.     I nterest      27    
+SECTION 2.3. Determination of Applicable Interest Rate   27    
+        
+SECTION 2.4.     P rincipal Payments      29    
+SECTION 2.5. Payment; Default Rate; Application of Certain Monies; Priority of 
+     Payments; Set-offs      30    
+SECTION 2.6. Interest Rate Protection Agreement   32    
+        
+SECTION 2.7.     I ntentionally Omitted.      34    
+SECTION 2.8. Additional Interest   34    
+        
+SECTION 2.9.     No  Withholdings      35    
+SECTION 2.10. Unavailability of LIBOR; Illegality   36    
+        
+SECTION 2.11.     I ncreased Costs and Capital Adequacy      37    
+SECTION 2.12. Usury   38    
+        
+SECTION 2.13.     Clo sing      38    
+SECTION 2.14. Loan Fee Letter   38    
+        
+SECTION 2.15.     Ca sh Sweep Provisions      38    
+SECTION 2.16. FF&E Reserve Account   39    
+        
+SECTION 2.17.     Co llection and Operating Accounts      40    
+SECTION 2.18. Tenant Security Account   41    
+        
+SECTION 2.19.     Acc ounts      43    SECTION 2.20.     E xtension of Loan      44    
+  
+ARTICLE III INTENTIONALLY OMITTED   46    
+   
+  
+ARTICLE IV CONDITIONS PRECEDENT TO THE EFFECTIVENESS OF THIS LOAN 
+AGREEMENT   46    
+   
+SECTION 4.1.     Repre sentations and Warranties      46    
+SECTION 4.2. Closing Documents, Etc.   46    
+        
+SECTION 4.3.     P ayment of Fees and Expenses      48    
+SECTION 4.4. No Default or Event of Default   48    
+        
+SECTION 4.5.     No  Casualty or Taking      48    
+SECTION 4.6. Adverse Conditions; Internal Approval   48    
+        
+  
+ARTICLE V REPRESENTATIONS AND WARRANTIES      49    
+SECTION 5.1. Due Organization   49    
+        
+SECTION 5.2.     Due  Execution      49    
+SECTION 5.3. Enforceability   49    
+        
+SECTION 5.4.     No  Violation      49    
+  
+i 
+ 
+            Page   
+   
+SECTION 5.5.     No  Litigation      49    
+SECTION 5.6. No Default or Event of Default   50    
+        
+SECTION 5.7.     O ffsets, Defenses, Etc.      50    
+SECTION 5.8. Consents   50    
+        
+SECTION 5.9.     F inancial Statements and Other Information      50    
+SECTION 5.10. Full Disclosure   50    
+        
+SECTION 5.11.     Acc ounts      50    
+SECTION 5.12. Indebtedness   51    
+        
+SECTION 5.13.     I nsurance Policies      51    
+SECTION 5.14. Availability of Utilities and Access   51    
+        
+SECTION 5.15.     No  Liens      51    
+SECTION 5.16. Compliance with Legal Requirements   51    
+        
+SECTION 5.17.     Cer tain Agreements      51    
+SECTION 5.18. Intentionally Omitted   52    
+        
+SECTION 5.19.     Securit y Documents      52    
+SECTION 5.20. Casualty and Taking   52    
+        
+SECTION 5.21.     B rokerage      52    
+SECTION 5.22. Encroachments   52    
+        
+SECTION 5.23.     F oreign Person      53    
+SECTION 5.24. Control Person   53    
+        
+SECTION 5.25.     G overnment Regulation      53    
+SECTION 5.26. ERISA   53    
+        
+SECTION 5.27.     L abor Relations      53    
+SECTION 5.28. Name; Principal Place of Business   53    
+        
+SECTION 5.29.     I ntellectual Property      54    
+SECTION 5.30. Flood Zone   54    
+        
+SECTION 5.31.     Co ndition of Property      54    
+SECTION 5.32. Taxes   54    
+        
+SECTION 5.33.     Adv erse Contracts      55    
+SECTION 5.34. Adverse Claims   55    
+        
+SECTION 5.35.     Cre ditworthiness      55    
+SECTION 5.36. Patriot Act   55    
+        
+SECTION 5.37.     L eases      55    
+SECTION 5.38. Notices under Certain Agreements   56    
+        
+SECTION 5.39.     Sp ecial Purpose Entity      56    
+  
+ARTICLE VI INTENTIONALLY OMITTED   56    
+   
+  
+ARTICLE VII GENERAL AND OPERATIONAL COVENANTS      56    
+SECTION 7.1. Financial Statements, Reports and Documents   56    
+        
+SECTION 7.2.     M anagement, Maintenance and Repairs      62    SECTION 7.3.     I nspection of Premises and Books and Records      63    
+SECTION 7.4. Compliance with Legal, Insurance and Contractual Requirements   64    
+        
+  
+ii 
+ 
+            Page   
+   
+SECTION 7.5. Appraisals   65    
+        
+SECTION 7.6.     P ayment of Impositions      65    
+SECTION 7.7. Liens and Encumbrances; Ownership of Collateral   65    
+        
+SECTION 7.8.     P ermitted Contests      66    
+SECTION 7.9. Alterations   67    
+        
+SECTION 7.10.     L eases      67    
+SECTION 7.11. Required Insurance   69    
+        
+SECTION 7.12.     Da mage or Destruction      70    
+SECTION 7.13. Taking of the Mortgaged Property   74    
+        
+SECTION 7.14.     Appl ication of Proceeds of Casualty or Taking to Loan; Loan Repayment      75    
+SECTION 7.15. Costs and Expenses   76    
+        
+SECTION 7.16.     T ransfers      76    
+SECTION 7.17. Defense of Title   79    
+        
+SECTION 7.18.     Rec ordation and Certain Taxes      79    
+SECTION 7.19. Name, Fiscal Year and Accounting Method   80    
+        
+SECTION 7.20.     Co nsolidation, Merger, Conveyance, Transfer or Lease      80    
+SECTION 7.21. Organization Restrictions   80    
+        
+SECTION 7.22.     Cha nges in Zoning      80    
+SECTION 7.23. Limitation on Indebtedness   80    
+        
+SECTION 7.24.     Dis tributions, Dividends and Affiliate Payments      80    
+SECTION 7.25. ERISA   81    
+        
+SECTION 7.26.     M aintenance of Existence      81    
+SECTION 7.27. Subsidiaries and Joint Ventures   81    
+        
+SECTION 7.28.     L oans to Members, Etc.      81    
+SECTION 7.29. Transactions with Affiliates   81    
+        
+SECTION 7.30.     Adv erse Contracts      82    
+SECTION 7.31. Utilities   82    
+        
+SECTION 7.32.     M argin Stock      82    
+SECTION 7.33. Patriot Act Compliance   82    
+        
+SECTION 7.34.     P ost Closing Requirements      82    
+  
+ARTICLE VIII EVENTS OF DEFAULT   83    
+   
+SECTION 8.1.     E vents of Default      83    
+SECTION 8.2. Acceleration of Loan   86    
+        
+SECTION 8.3.     I ntentionally Omitted      86    
+SECTION 8.4. Agent’s Right to Complete; Sums Advanced   86    
+        
+SECTION 8.5.     Ass ignment of Funds      87    
+SECTION 8.6. Accounts   88    
+        
+SECTION 8.7.     No  Liability of Agent or Lenders      88    
+SECTION 8.8. Right of Offset   89    
+        
+SECTION 8.9.     T ermination of Loan Agreement      89    
+SECTION 8.10. Right to Perform   89    
+        
+  
+iii 
+ 
+            Page   
+  
+ARTICLE IX ASSIGNMENTS AND PARTICIPATIONS   90    
+   
+SECTION 9.1.     Ass ignment and Participations      90    
+SECTION 9.2. Participation   90    
+        
+SECTION 9.3.     Av ailability of Records      90    
+SECTION 9.4. Borrower’s Facilitation of Transfer   91    
+        
+SECTION 9.5.     No tice; Registration Requirement      91    
+SECTION 9.6. Registry   91    
+        
+SECTION 9.7.     L ender Interest Rate Protection Agreements      92    
+SECTION 9.8. Disclosure by Agent or Lender   92    
+          
+ARTICLE X AGENT AND LENDERS      92    
+SECTION 10.1. Scope of Article X   92    
+        
+SECTION 10.2.     Ag ent      92    
+SECTION 10.3. Distributions   94    
+        
+SECTION 10.4.     Aut hority, No Reliance; Binding Effect      94    
+SECTION 10.5. Loan   95    
+        
+SECTION 10.6.     E quitable Adjustments      96    
+SECTION 10.7. Other Transactions   97    
+        
+SECTION 10.8.     O bligations Absolute      97    
+SECTION 10.9. Indemnification   97    
+        
+SECTION 10.10.     T axes      98    
+SECTION 10.11. Return of Payments   98    
+        
+SECTION 10.12.     No  Partnership      98    
+SECTION 10.13. Resignation and Removal of Agent; Successor Agent   99    
+        
+SECTION 10.14.     Def aults by any Lender      99    
+SECTION 10.15. Purchase Price; Payment for Defaulting Lender’s Pro Rata Share   101    
+        
+SECTION 10.16.     E lection of Interest Rate; Distribution of Funds to Lenders      101    
+SECTION 10.17. Titles   101    
+        
+  
+ARTICLE XI GENERAL CONDITIONS      102    
+SECTION 11.1. Indemnity   102    
+        
+SECTION 11.2.     No  Waivers      104    
+SECTION 11.3. Intentionally Omitted   104    
+        
+SECTION 11.4.     Co ntractors      104    
+SECTION 11.5. Agent and Lenders Sole Beneficiaries   104    
+        
+SECTION 11.6.     E ntire Agreement      104    
+SECTION 11.7. Assignment   105    
+        
+SECTION 11.8.     F urther Assurances; Filing of Financing Statements      105    
+SECTION 11.9. Cumulative Remedies   105    
+        
+SECTION 11.10.     Am endments, Consents, Waivers, Approvals, Etc.      105    
+SECTION 11.11. Notices   105    
+        
+SECTION 11.12.     L imitation on Liability      108    
+  
+iv 
+ 
+            Page   
+   
+SECTION 11.13.     B inding Effect      108    
+SECTION 11.14. Severability of Provisions   108    
+        
+SECTION 11.15.     G overning Law and Consent to Jurisdiction      108    
+SECTION 11.16. Waiver of Jury Trial   109    
+        
+SECTION 11.17.     No  Joint Venture      109    
+SECTION 11.18. Determinations and Consents of Agent   109    
+        
+SECTION 11.19.     Relia nce by Agent on Action on Behalf of Borrower      109    
+SECTION 11.20. Headings, Etc   110    
+        
+SECTION 11.21.     I ncorporation by Reference      110    
+SECTION 11.22. Counterparts   110    
+        
+SECTION 11.23.     At torneys’ Fees      110    
+SECTION 11.24. Waiver of Consequential Damages Etc   110    
+        
+SECTION 11.25.     E mployer Identification Number Etc      110    
+  
+v 
+ 
+Exhibits and Schedules 
+  
+Exhibit A:    The Land 
+Exhibit B: Form of Account Agreement 
+   
+Exhibit C:    Applicable Lending Office 
+Exhibit D: Form of Credit Card Servicer Agreement 
+   
+Exhibit E-1:    Engineering Report 
+Exhibit E-2: Environmental Report 
+   
+Exhibit F:    Form of FF&E Disbursement Request Exhibit G:    Definition of Special Purpose Entity 
+Exhibit H: Agent Wiring Instructions 
+   
+Exhibit I-1    2011 Operating Budget 
+Exhibit I-2 2011 FF&E/Capital Budget 
+   
+  
+Schedule 2.6(a):    Form of Interest Rate Protection Agreement Consent 
+Schedule 5.5: Schedule of Disclosed Litigation 
+   
+Schedule 5.11:    Schedule of Accounts 
+Schedule 7.11: Schedule of Insurance Policies and Requirements 
+   
+Schedule 9.5:    Form of Assignment and Acceptance 
+  
+vi 
+ 
+LOAN AGREEMENT 
+This LOAN AGREEMENT (this “Loan Agreement”) dated as of July 15, 2019, by and 
+among GREAT WOLF LODGE OF THE CAROLINAS, LLC, a Delaware limited liability company, having 
+an office at c/o Great Wolf Resorts, Inc., 525 Junction Road, Suite 6000 South, Madison, Wisconsin 53717 
+(“Borrower”), CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, a banking corporation 
+organized under the laws of the Republic of France, having an office at 1301 Avenue of the Americas, New 
+York, New York 10019 (“Crédit Agricole”), DEUTSCHE BANK TRUST COMPANY AMERICAS, having 
+th
+an office at NYC 60-1008, 60 Wall Street, 10 Floor, New York, New York 10025 (“Deutsche Bank”; Crédit 
+Agricole, and Deutsche Bank, together with their respective successors and assigns in their capacities as lenders, 
+including any Assignees (as hereinafter defined) hereunder, each a “Lender” and collectively “Lenders”), as 
+Lender, DEUTSCHE BANK SECURITIES INC., having an office at 60 Wall Street, New York, New 
+York 10025, as Syndication Agent, and CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, 
+a banking corporation organized under the laws of the Republic of France, having an office at 1301 Avenue of 
+the Americas, New York, New York 10019, in its capacity as agent for Lenders (together with its successors and 
+assigns in such capacity as agent for Lenders, “Agent”). 
+W I T N E S S E T H: 
+WHEREAS, Borrower is the owner of certain real property located in Concord, North Carolina, 
+which property is more particularly described in Exhibit A attached hereto (the “Land”), together with the 
+improvements now or hereafter located thereon; and 
+WHEREAS, Borrower wishes to borrow $56,000,000 (the “Loan Amount”) from Lenders in 
+connection with ownership and operation of the Premises (as defined in Section 1.1 hereof) upon the terms and 
+conditions contained herein; 
+NOW, THEREFORE, in consideration of the premises and of the mutual covenants contained 
+herein and other good and valuable consideration, the receipt of which is hereby acknowledged, the parties 
+hereto hereby agree as follows: 
+ARTICLE I 
+DEFINITIONS 
+SECTION 1.1. Definitions. For purposes of this Loan Agreement, the following terms shall have 
+the respective meanings set forth in this Article I: 
+“Account Agreement” means an agreement substantially in the form attached hereto as Exhibit B, 
+or such other form of agreement similar in substance and acceptable to Agent, to be executed and delivered by 
+Borrower, Agent and the bank at which the Account that is the subject of such agreement is held (if other than 
+Agent). 
+“Accounts” means, collectively, all accounts of Borrower and all accounts of Property Manager 
+held on behalf of or for the benefit of Borrower, including the FF&E Reserve Account, the Tenant Security 
+Account, the Cash Sweep Account and the Collection Account. 
+ 
+“Additional Interest” means all sums payable pursuant to Sections 2.8, 2.9 and 2.11 hereof. “Affiliate” means, with respect to any specified Person, any other Person: 
+(a) which directly or indirectly through one or more intermediaries controls, or is 
+controlled by, or is under common control with, such Person; or 
+(b) which, directly or indirectly, beneficially owns or holds ten percent (10%) or more 
+of (x) any class of stock or (y) any other ownership interest in such Person; or 
+(c) ten percent (10%) or more of the direct or indirect ownership of which is 
+beneficially owned or held by such Person; or 
+(d) which is a member of the family (as defined in Section 267(c)(4) of the IRC) of 
+such Person or which is a trust or estate, the beneficial owners of which are members of the 
+family (as defined in Section 267(c)(4) of the IRC) of such Person; or 
+(e) which directly or indirectly is a general partner, controlling shareholder or 
+managing member of such Person. 
+For purposes of this definition, (i) the term “control” (and its correlative meanings) means the 
+possession, directly or indirectly, of the power to direct or cause the direction of the day-to-day or strategic 
+management and policies of a Person, whether through the ownership of stock, by contract or otherwise, and 
+(ii) Borrower, Borrower Member and each Guarantor shall be deemed to be Affiliates of Borrower and each 
+other. 
+“Agent” has the meaning set forth in the first paragraph of this Loan Agreement. 
+“Agent’s Counsel” means such counsel as Agent from time to time may engage on behalf of itself 
+and/or Lenders. 
+“Agent’s Counsel Fees” means the reasonable fees and disbursements of Agent’s Counsel for 
+services heretofore or hereafter rendered to Agent on behalf of itself and/or Lenders in connection with the 
+Loan, including the preparation, negotiation, administration and modification of the Loan Documents, and the 
+enforcement of Agent’s and Lenders’ rights and remedies under the Loan Documents. 
+“Applicable Accounting Standards” means (a) GAAP, and (b) where applicable to such Person, at 
+any time, the Uniform System of Accounts. 
+“Applicable Excess Amount” has the meaning set forth in Section 2.15 hereof. 
+“Applicable Interest Rate” has the meaning set forth in Section 2.2(a) hereof. 
+  
+2 
+ 
+“Applicable Lending Office” shall mean the “Lending Office” of each Lender (or of an Affiliate of 
+each Lender) designated for each Lender as of the Closing Date specified on Exhibit C attached hereto or such 
+other office of each Lender (or of an Affiliate of each Lender) as each Lender may from time to time specify to 
+Borrower as the office by which the Loan is to be made and/or maintained by such Lender. 
+“Appraisal” means a written appraisal report of the Premises as the term “appraisal” is defined in 
+the Code of Professional Ethics of the Appraisal Institute, meeting the requirements of Title XI of the Financial 
+Institutions Reform, Recovery and Enforcement Act of 1989, prepared by a professional appraiser retained by 
+Agent at Borrower’s expense who is a member of the Appraisal Institute, addressed to Agent and Lenders and in 
+form, scope and substance satisfactory to Agent, setting forth such appraiser’s determination of the Appraised 
+Value. 
+“Appraisal Update” means any written supplement or “update” to an Appraisal, prepared by a 
+professional appraiser retained by Agent at Borrower’s expense who is a member of the Appraisal Institute, 
+addressed to Agent and Lenders and in form, scope and substance satisfactory to Agent, setting forth such 
+appraiser’s determination of the Appraised Value. 
+“Appraised Value” means the as-is fair market value of the Premises, which would be obtained in 
+an arm’s length transaction between an informed and willing buyer and an informed and willing seller, under no 
+compulsion, respectively, to buy or sell, on the appraisal date of the Appraisal or Appraisal Update, as 
+applicable. “Approved Capital Expenditures” means, for any fiscal year of Borrower, the Capital Expenditures 
+set forth in the Approved FF&E/Capital Budget for such fiscal year that are actually incurred by Borrower 
+during such fiscal year. 
+“Approved FF&E/Capital Budget” means, for any fiscal year of Borrower, the FF&E/Capital 
+Budget for such fiscal year approved by Agent in writing in accordance with Section 7.1(e) hereof and any 
+Permitted FF&E/Capital Budget Reallocations and other reallocations thereof and amendments thereto approved 
+by Agent in writing, such approval not to be unreasonably withheld, conditioned or delayed so long as no Event 
+of Default exists. 
+“Approved FF&E Expenditures” means, for any fiscal year of Borrower, the FF&E Expenditures 
+set forth in the Approved FF&E/Capital Budget for such fiscal year that are actually incurred by Borrower 
+during such fiscal year. 
+“Approved Fund” means any Fund that is administered or managed by (a) a Lender, (b) an Affiliate 
+of a Lender or (c) an entity or an Affiliate of an entity that administers or manages a Lender. 
+“Assignee” has the meaning set forth in Section 9.1 hereof. 
+“Assignment and Acceptance” has the meaning set forth in Section 9.5 hereof. 
+“Assignment of Agreements” means that certain Assignment of Agreements dated as of the Closing 
+Date made by Borrower in favor of Agent and Lenders. 
+  
+3 
+ 
+“Assignment of Leases and Rents” means that certain Assignment of Leases and Rents dated as of 
+the Closing Date made by Borrower in favor of Agent and Lenders. 
+“Assumed Debt Service” means, as of any Testing Determination Date, the greatest of 
+(a) (i) if the period from the Closing Date through such Testing Determination date is less than 
+twelve (12) calendar months, the annualized Debt Service for such period, or (ii) if the period from the Closing 
+Date through such Testing Determination Date is greater than or equal to twelve (12) calendar months, Debt 
+Service for the twelve (12)-calendar month period ending on such Testing Determination Date, 
+(b) the product of (i) nine and six one-hundredths percent (9.06%) times (ii) the outstanding 
+principal amount of the Loan as of such Testing Determination Date, and 
+(c) the product of (i) twelve (12) times (ii) the total monthly amount of principal and interest that 
+would be required to be paid each month to fully amortize an amount equal to the outstanding principal amount 
+of the Loan as of such Testing Determination Date over a 25-year amortization schedule assuming a level 
+payment mortgage-style monthly amortization schedule commencing on such Testing Determination Date and 
+an interest rate equal to the sum of (A) the then current weekly average yield on United States Treasury 
+Securities, as of such Testing Determination Date, adjusted to constant maturities of ten (10) years, as made 
+available by the Federal Reserve Board and published in Federal Reserve Statistical Release H.15 (519), or if 
+not so published, determined on the basis of comparable yields published in a publication designated by Agent 
+and (B) two and one-half percent (2.50%); 
+provided, however, during the Extension Term (if any) and for purposes of determining the Assumed Debt 
+Service Coverage Ratio pursuant to clauses (iii) and (v) of Section 2.20(b) hereof, “Assumed Debt Service” 
+shall mean, as of any Testing Determination Date, the product of (y) twelve (12) times (z) the total monthly 
+amount of principal and interest payments that would be required to be paid each month to fully amortize an 
+amount equal to the outstanding principal amount of the Loan as of such Testing Determination Date over a 
+twenty (20)-year amortization schedule assuming a level payment mortgage-style monthly amortization 
+schedule commencing on such Testing Determination Date and an interest rate equal to the greatest of (i) the 
+weighted average Applicable Interest Rate in effect on such Testing Determination Date, giving effect to any 
+Interest Rate Protection Agreement then in effect, (or, in the case of a determination pursuant 
+to clauses (iii) and (v) of Section 2.20(b) hereof, the Interest Rate Protection Agreement to be in effect during 
+the Extension Term), (ii) seven and three-quarters percent (7.75%) per annum, and (iii) the sum of (A) the then 
+current weekly average yield, as of such Testing Determination Date, on United States Treasury Securities 
+adjusted to constant maturities of ten (10) years, as made available by the Federal Reserve Board and published in Federal Reserve Statistical Release H.15 (519), or if not so published, determined on the basis of comparable 
+yields published in a publication designated by Agent and (B) two and one-half percent (2.50%). 
+“Assumed Debt Service Coverage Ratio” means, as of any Testing Determination Date, the ratio of 
+(a) Net Operating Income for the twelve (12)-calendar month period ending on such Testing Determination Date 
+to (b) the Assumed Debt Service as of such Testing Determination Date. 
+  
+4 
+ 
+“Authorized Agent Representative” means Agnes Castillo, Maria Pena and any other person 
+designated as such by Agent from time to time for purposes of Section 2.3 hereof by delivery of a notice to 
+Borrower. 
+“Authorized Borrower Representative” means Alex Lombardo and any other person designated as 
+such by Borrower from time to time for purposes of Section 2.3 hereof by delivery of a notice to Agent. 
+“Base Management Fee” means the lesser of (a) the aggregate amount of all management fees 
+payable to Property Manager or its Affiliates with respect to the Premises and (b) three percent (3%) of Gross 
+Revenues. 
+“Base Rate” means, for any day, a rate of interest per annum equal to the greater of (a) the sum of 
+(i) the greater of (y) the rate per annum established by Agent from time to time as its reference rate (which 
+Borrower acknowledges is not necessarily Agent’s lowest rate) for short-term commercial loans in Dollars to 
+United States domestic corporate borrowers, as determined by Agent on a daily basis, such rate to change as and 
+when such reference rate changes, and (z) the Federal Funds Rate, plus one percent (1.00%) per annum, plus 
+(ii) the Base Rate Margin, and (b) the LIBOR Rate as would be applicable for a one (1)-month LIBOR Rate 
+Period commencing with such day. 
+“Base Rate Margin” means four percent (4.00%) per annum. 
+“Borrower” has the meaning set forth in the first paragraph of this Loan Agreement. 
+“Borrower Member” means, individually and collectively, GWROP and any other Person that 
+becomes a member of Borrower after the date hereof. 
+“Borrower’s Certificate” means that certain Borrower’s Certificate by Borrower in favor of Agent 
+dated as of the Closing Date. 
+“Business Day” means any day other than a Saturday, Sunday or other day on which commercial 
+banks in New York, New York are authorized or required by law, governmental decree or executive order to 
+close. 
+“Calendar Quarter” means each of the periods of January 1 through the immediately succeeding 
+March 31, April 1 through the immediately succeeding June 30, July 1 through the immediately succeeding 
+September 30, and October 1 through the immediately succeeding December 31. 
+“Capital Expenditures” means expenditures for repairs, replacements or improvements of or to the 
+Premises the cost of which would be capitalized under GAAP. “Capital Expenditures” does not include FF&E 
+Expenditures. 
+  
+5 
+ 
+“Cash Sweep Account” means that certain account at Agent identified in Schedule 5.11 attached 
+hereto as the “Cash Sweep Account” and any account(s) in substitution thereof or in addition thereto hereafter 
+established in accordance with this Loan Agreement. 
+“Cash Sweep Condition” shall exist 
+(a) as of any Testing Determination Date if (i) as of such Testing Determination Date, the Property 
+Leverage Ratio shall exceed 6.50:1.00 and (ii) Borrower shall not, by the earlier of (y) five (5) Business Days 
+after the date quarterly financial statements with respect to such Testing Determination Date are delivered to 
+Agent pursuant to Section 7.1(b) hereof or (z) sixty (60) days after such Testing Determination Date, have made 
+a voluntary prepayment of the Loan pursuant to Section 2.4(c) hereof in an amount such that the Property Leverage Ratio, recomputed to take into account such payment, is less than or equal to 6.50:1.00. 
+Notwithstanding Section 2.4(c) hereof, no Spread Maintenance Fee shall be payable in connection with such 
+prepayment. If a Cash Sweep Condition is determined to exist with respect to any Testing Determination Date 
+pursuant to this clause (a), then such Cash Sweep Condition shall be deemed to continue to exist until (A) there 
+have been two (2) consecutive subsequent Testing Determination Dates on which (x) the Property Leverage 
+Ratio shall be less than or equal to 6.50:1.00 and (B) the financial statements and other documents required to be 
+delivered to Agent pursuant to Section 7.1(b) and (c) hereof with respect to the respective Calendar Quarters 
+ending on such Testing Determination Dates shall have been delivered to Agent; or 
+(b) as of any Testing Determination Date if Borrower shall have failed to deliver to Agent when 
+required by this Loan Agreement the financial statements and other documents required to be delivered to Agent 
+pursuant to Section 7.1(b) and (c) hereof with respect to the Calendar Quarter ending on such Testing 
+Determination Date. If a Cash Sweep Condition is determined to exist with respect to any Testing Determination 
+Date pursuant to this clause (b), then such Cash Sweep Condition shall continue to exist only until Borrower 
+delivers such financial statements and other documents to Agent (and a Cash Sweep Condition does not 
+otherwise exist pursuant to the other terms of this definition). 
+Notwithstanding the foregoing provisions of this definition, a Cash Sweep Condition shall be 
+deemed to exist as of the Testing Determination Date immediately preceding the Closing Date. 
+“Cash Sweep Limit” means, with respect to any Cash Sweep Condition caused by the failure to 
+satisfy clause (a) of the definition of “Cash Sweep Condition” in this Section 1.1, as of any date of 
+determination, an amount determined by Agent which, if applied in reduction of the outstanding principal 
+amount of the Loan, would have resulted in the applicable such Cash Sweep Condition not existing. 
+“Casualty” means damage or destruction to all or any part of the Mortgaged Property. 
+“Casualty Proceeds Disbursement Threshold” has the meaning set forth in Section 7.12(b) hereof. 
+“Central Bank Pledge” has the meaning set forth in Section 9.1 hereof. 
+  
+6 
+ 
+“Closing” means the execution and delivery of this Loan Agreement by Borrower, Agent and 
+Lenders. 
+“Closing Date” means the date upon which the Closing occurs. 
+“Collateral” means the Mortgaged Property and all other property, real or personal, tangible or 
+intangible, and all rights thereto, now or hereafter pledged, mortgaged, assigned or delivered pursuant or with 
+respect to the Loan Documents or otherwise by Borrower or any other Person to Agent and/or Lenders as 
+security for the Obligations. 
+“Co-Agent” means each of Crédit Agricole (so long as it maintains the first or second largest 
+Commitment of all Lenders) and Deutsche Bank (so long as it maintains the first or second largest Commitment 
+of all Lenders), and “Co-Agents” means such Persons, collectively. 
+“Co-Agents’ Counsel” means such counsel as either Co-Agent, individually or collectively, from 
+time to time may engage on behalf of itself and/or some or all Lenders. 
+“Co-Agents’ Counsel Fees” means the reasonable fees and disbursements of Co-Agent Counsel for 
+services heretofore or hereafter rendered to the applicable Co-Agent or Co-Agents’ in connection with the Loan, 
+including the preparation, negotiation, administration and modification of the Loan Documents, and the 
+enforcement of Lenders’ rights and remedies under the Loan Documents. 
+“Collection Account” means that certain account identified in Schedule 5.11 attached hereto as the 
+“Collection Account” and any account(s) in substitution thereof or in addition thereto hereafter established in 
+accordance with this Loan Agreement. 
+“Commitment” means, (a) as to any Lender, the commitment of such Lender to make its Pro Rata 
+Share of the Loan, in an amount (i) as of the Closing Date with respect to (y) Crédit Agricole equal to 
+$28,000,000 and (z) Deutsche Bank equal to $28,000,000, and (ii) hereafter, as such commitment shall be set 
+forth in any Assignment and Acceptance by which such Lender becomes a Lender or by which such Lender assigns a portion of its rights and/or obligations in and to the Loan and the other Loan Documents to an 
+Assignee, and (b) as to all Lenders, the aggregate commitment of all Lenders to make the Loan, which aggregate 
+commitment shall be the Loan Amount on the Closing Date, as the amounts set forth in the 
+foregoing clauses (a) and (b) may be adjusted in accordance with this Loan Agreement. 
+“Comparable Standards” means the standards of operation, use and maintenance required by the 
+License Agreement but in any case at least the same standards of operation, use and maintenance of (i) the 
+Premises as of the Closing Date and (ii) comparable Great Wolf resorts as of the date in question. 
+“Condemnation Proceeds Disbursement Threshold” has the meaning set forth 
+in Section 7.13(b) hereof. 
+“Crédit Agricole” has the meaning set forth in the first paragraph of this Loan Agreement. 
+  
+7 
+ 
+“Credit Card Servicer Agreement” means an agreement in the form attached hereto as Exhibit D (or 
+in another form customarily used by the applicable credit card company, service or agent and reasonably 
+acceptable to Agent) among Borrower and/or Property Manager, as applicable, Agent and each credit card 
+company, servicer or agency used by Borrower and/or Property Manager in connection with the Premises, 
+which agreement shall require the deposit of funds into the Collection Account, among other things. 
+“Debt Service” means, as to any period with respect to which Debt Service is being determined, the 
+amount of Interest due for any such period, giving effect to any Interest Rate Protection Agreement then in 
+effect, plus scheduled principal payments due pursuant to Section 2.4(b) hereof for such period, plus Additional 
+Interest due for such period. 
+“Debt Service Coverage Ratio” means as of any Testing Determination Date, the ratio of (a) Net 
+Operating Income for the twelve (12)-calendar month period ending on such Testing Determination Date, to 
+(b) (i) if the period from the Closing Date through such Testing Determination date is less than twelve 
+(12) calendar months, the annualized Debt Service for such period, or (ii) if otherwise, the Debt Service for the 
+twelve (12)-calendar month period ending on such Testing Determination Date. 
+“Debt Service Coverage Ratio Event of Default” shall exist as of any Testing Determination Date if 
+(a) as of such Testing Determination Date, the Minimum Debt Service Coverage Ratio shall not be satisfied, and 
+(b) Borrower shall not, by the earlier of (i) five (5) Business Days after the date quarterly financial statements 
+with respect to such Testing Determination Date are delivered to Agent pursuant to Section 7.1(b) hereof or 
+(ii) sixty (60) days after such Testing Determination Date, have made a voluntary prepayment of the Loan 
+pursuant to Section 2.4(c) hereof in an amount such that the Minimum Debt Service Coverage Ratio, as 
+recomputed to take into account such payment, is satisfied. Notwithstanding Section 2.4(c) hereof, no Spread 
+Maintenance Fee shall be payable in connection with such prepayment. 
+“Default” means any event which, with the giving of notice or the passage of time, or both, would 
+constitute an Event of Default. 
+“Default Rate” means, as to any date, the actual Applicable Interest Rate for that date plus five 
+percent (5%) per annum. 
+“Defaulting Lender” has the meaning set forth in Section 10.14(a) hereof. 
+“Deutsche Bank” has the meaning set forth in the first paragraph of this Loan Agreement. 
+“Documentation” has the meaning set forth in Section 11.25 hereof. 
+“Dollars” or the sign “$” means dollars in the lawful currency of the United States of America. 
+“Eligible Assignee” means any Person that is not Borrower, any Guarantor or any of their respective 
+Affiliates and provided that such Person is also any of (i) a commercial bank, 
+  
+8 
+ 
+savings and loan association, savings bank, finance company or Approved Fund organized under the laws of the 
+United States, or any State thereof or the District of Columbia, and having total assets in excess of $200,000,000; (ii) a commercial bank organized under the laws of any other country which is a member of the 
+Organization for Economic Cooperation and Development (the “OECD”), or under the laws of a political 
+subdivision of any such country, and having total assets in excess of $200,000,000, provided that such bank is 
+acting through a branch or agency located in the country in which it is organized or another country which is 
+also a member of the OECD; (iii) the central bank of any country which is a member of the OECD; (iv) any 
+other bank, insurance company, commercial finance company or other financial institution or other Person 
+having total assets and surplus capital of not less than $200,000,000, (v) if, but only if, any Event of Default has 
+occurred and is continuing, any other bank, insurance company, commercial finance company or other financial 
+institution or other Person approved by Agent, such approval not to be unreasonably withheld and (vi) a Lender 
+or an Affiliate of a Lender; provided, however, no person or entity shall be an Eligible Assignee hereunder 
+unless it complies with the requirements under Article IX below and the assignor shall not have received any 
+information and shall have no actual knowledge that such proposed Eligible Assignee is on any Government 
+Lists. 
+“Engineering Report” means, collectively, those certain reports and assessments set forth 
+on Exhibit E-1 attached hereto. 
+“Environmental Indemnity” means that certain Environmental Indemnity dated as of the Closing 
+Date made by Borrower and GWRI in favor of Agent and Lenders. 
+“Environmental Report” means, collectively, those certain reports and assessments set forth 
+on Exhibit E-2 attached hereto. 
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the rules 
+and regulations promulgated thereunder by any Governmental Authority, as from time to time in effect. 
+“ERISA Affiliate” means any organization, trade or business, or other arrangement (whether or not 
+incorporated) which is treated as a single employer with Borrower within the meaning of IRC Section 414(b), 
+(c), (m) or (o) or Section 4001 of ERISA. 
+“ERISA Event” means (a) any “reportable event”, as defined in Section 4043 of ERISA or the 
+regulations issued thereunder with respect to a Pension Plan (other than an event for which the 30-day notice 
+period is waived); (b) the withdrawal of Borrower or any ERISA Affiliate from a Pension Plan subject to 
+Section 4063 of ERISA during a plan year in which it was a substantial employer, as defined in 
+Section 4001(a)(2) of ERISA, (c) the complete or partial withdrawal of Borrower or any ERISA Affiliate from 
+any Multiemployer Plan, (d) notice of reorganization or insolvency of a Multiemployer Plan, (e) the filing of a 
+notice of intent to terminate a Pension Plan or the treatment of a plan amendment as a termination under 
+Section 4041 of ERISA, (f) the institution, or threat of institution, of proceedings to terminate or appoint a 
+trustee to administer a Pension Plan or Multiemployer Plan by the PBGC, (g) the failure to make any required 
+contribution to a Pension Plan or Multiemployer Plan, (h) the imposition of a lien under IRC Section 412 or 
+Section 302 of ERISA on Borrower or any ERISA 
+  
+9 
+ 
+Affiliate, (i) the existence with respect to any Pension Plan of an “accumulated funding deficiency” (as defined 
+in IRC Section 412 or Section 302 of ERISA), whether or not waived, or (j) any event or condition that might 
+reasonably be expected to constitute grounds under Section 4042 of ERISA for the termination of, or the 
+appointment of a trustee to administer, any Pension Plan or Multiemployer Plan or the imposition of any 
+liability under Title IV of ERISA, other than for PBGC premiums due but not delinquent under Section 4007 of 
+ERISA. 
+“Event of Default” has the meaning set forth in Section 8.1 hereof. 
+“Excess Cash Flow” means, with respect to any period, the excess of (a) Net Operating Income for 
+such period over (b) the amount of Debt Service for such period. 
+“Excluded Sums” has the meaning set forth in Section 10.3 hereof. 
+“Excluded Taxes” means, with respect to any Lender, (a) income, franchise or similar taxes 
+imposed on (or measured by) its net income by the United States of America, or by the jurisdiction under the 
+laws of which such Lender is organized or in which its principal office is located or in which its Applicable 
+Lending Office is located, and (b) any branch profits taxes imposed by the United States of America or any similar law imposed by any other jurisdiction in which such Lender is organized or in which its principal office 
+is located or in which its Applicable Lending Office is located. 
+“Expenses” means, for any period, operating costs and expenses which are accrued (in accordance 
+with Applicable Accounting Standards, consistently applied) or, without duplication, reserved by, or by Property 
+Manager on behalf of, Borrower during such period (appropriately prorated for any expenses that, although 
+actually incurred in a particular period, also relate to other periods) in connection with Borrower’s ownership 
+and operation of the Premises (without duplication of any costs and expenses prepaid during a prior period or 
+otherwise paid prior to being incurred or accrued), including (i) a reserve for capital expenditures equal to four 
+percent (4%) of Gross Revenues during such period (which is inclusive of and not in duplication of the FF&E 
+Reserve), (ii) the fees payable under the Property Management Agreement (but in no event less than three 
+percent (3%) of Gross Revenues) and the License Agreement (but in no event less than a license fee equal to 
+three (3%) of Gross Revenues, a brand marketing fee equal to one percent (1%) of Gross Rooms Sales (as 
+defined in the License Agreement) and a reservation services fee equal to two percent (2%) of Gross Rooms 
+Sales attributable to Licensor’s reservation system), (iii) real estate taxes and personal property taxes and any 
+taxes in lieu of or in the nature of the foregoing, (iv) sales, payroll, use and occupancy taxes and (v) insurance 
+premiums, but excluding (t) nonrecurring and other extraordinary items not expected to be incurred on an annual 
+basis, (u) FF&E Expenditures and Capital Expenditures to the extent in excess of the FF&E Reserve Amount 
+during such period, (v) amounts funded from insurance or condemnation proceeds, (w) amounts paid from any 
+reserve (including amounts paid from the FF&E Reserve Account) maintained by Borrower or any other Person, 
+including Property Manager and Agent, on behalf of or for the benefit of Borrower to the extent payment to 
+such reserve previously constituted an expense, (x) Debt Service, (y) federal and state income taxes (or any 
+other taxes based on income), franchise taxes, other taxes based on income or gross receipts due and owing from 
+Borrower, the Premises or any direct or indirect owner of Borrower and any taxes in lieu of or in the nature of 
+the foregoing, and (z) depreciation, 
+  
+10 
+ 
+amortization and any other non-cash items. Notwithstanding that “Expenses” are to be determined on an accrual 
+basis as aforesaid, real estate taxes, personal property taxes and any taxes in lieu of or in the nature of the 
+foregoing and insurance premiums shall be annualized and insurance premiums payable under blanket policies 
+including the Premises shall be allocated among the properties under such blanket policies in each case in a 
+manner reasonably acceptable to Agent. For purposes of determining “Excess Cash Flow”, the amounts 
+described in the foregoing clause (t) that are incurred in accordance with this Loan Agreement and are accrued 
+in any period shall not be excluded from the determination of “Expenses”. 
+“Extension Fee” means a fee in an amount equal to one-quarter of one percent (0.25%) of the 
+outstanding principal amount of the Loan as of the Initial Maturity Date. 
+“Extension Term” has the meaning set forth in Section 2.20(a) hereof. 
+“Federal Funds Rate” means, for any period, a fluctuating interest rate per annum (based on a 360-
+day year) equal, for each day of such period, to the rate of interest quoted at 11:00 a.m. New York time charged 
+on overnight federal funds transactions with member banks of the Federal Reserve System. 
+“FF&E” has the meaning set forth in the Mortgage. 
+“FF&E/Capital Budget” means an annual budget for FF&E Expenditures and Capital Expenditures 
+as described in Section 7.1(e) of this Loan Agreement. 
+“FF&E Disbursement Request” means a written request for disbursement from the FF&E Reserve 
+Account pursuant to Section 2.16 hereof in the form attached hereto as Exhibit F. 
+“FF&E Expenditures” means expenditures for the repair, replacement or acquisition (as appropriate) 
+of furniture, fixtures and equipment for the Premises, so long as such repairs, replacements or acquisitions 
+would be capitalized as an asset for accounting purposes under GAAP. 
+“FF&E Reserve Account” has the meaning set forth in Section 2.16(a) hereof. 
+“FF&E Reserve Amount” means, for any calendar month, an amount equal to the following 
+percentages of Gross Revenues for such calendar month: 
+(a) for any month ending prior to the first anniversary of the Closing Date, three percent (3.0%); (b) for any month ending after the first anniversary of the Closing Date but prior to the second 
+anniversary of the Closing Date, three and one-half percent (3.5%); and 
+(c) for any month thereafter, four percent (4.0%). 
+  
+11 
+ 
+“First Tier Default” means a Default arising from the existence of any facts or conditions described 
+in Section 8.1(a)(ii), (b), (k), or (m) hereof (for clarification purposes, without giving effect to any notice or 
+grace period). 
+“Full Recourse Event” means any of those events or circumstances described in clause (h) of the 
+definition of “Recourse Liability Events” in this Section 1.1. 
+“Fund” means any Person (other than a natural person) that is engaged in making, purchasing, 
+holding or otherwise investing in commercial real estate loans and similar extensions of credit in the ordinary 
+course of its business. 
+“Funding Direction Letter” means that certain letter dated as of the Closing Date by Borrower to 
+Agent pertaining to the disbursement of Loan proceeds to be made on the Closing Date. 
+“GAAP” means those generally accepted accounting principles and practices which are recognized 
+as such by the American Institute of Certified Public Accountants or by the Financial Accounting Standards 
+Board or through appropriate boards or committees of that Board after the Closing Date, and which are 
+consistently applied for all periods, so as to properly reflect the financial position of a Person, except that any 
+accounting principle or practice required or permitted to be changed by the American Institute of Certified 
+Public Accountants or the Financial Accounting Standards Board (or other appropriate board or committee of 
+that Board) in order to continue as a generally accepted accounting principle or practice may be so changed only 
+so long as such required or permitted change shall not have the effect of permitting Borrower’s compliance with 
+any financial covenants or performance tests contained in this Loan Agreement when without such change, 
+Borrower would not so comply. 
+“Government Lists” means (A) the OFAC SDN List, (B) any other list of terrorists, terrorist 
+organizations or narcotics traffickers maintained pursuant to any of the Rules and Regulations of OFAC that 
+Agent notified Borrower in writing is now included in “Government Lists” or (C) any similar lists maintained 
+by the United States Department of State, the United States Department of Commerce or any other government 
+authority or pursuant to any Executive Order of the President of the United States of America that Agent 
+notified Borrower in writing is now included in “Government Lists.” 
+“Governmental Authority” means any federal, state, county, municipal, parish, provincial or other 
+government, or any department, commission, board, court, agency, committee, or quasi-governmental unit of 
+the United States of America, or any instrumentality of any of them, or any other political subdivision thereof. 
+“Gross Revenues” means, for any period, collectively but without duplication, all Operating 
+Revenues for such period but excluding proceeds of the Loan, any loan, equity investment or capital 
+contribution made by Borrower Member or any other Person to Borrower, Security Deposits until they are 
+forfeited by the depositor, interest income, net payments to Borrower under any Interest Rate Protection 
+Agreement, casualty and condemnation proceeds and awards and any other income of an extraordinary or non-
+recurring nature. “Gross Revenues” shall be determined in accordance with the accrual basis of accounting. 
+  
+12 
+ 
+“Guarantor” means each of GWRI and any other Person who may hereafter become a guarantor of 
+all or any portion of the Obligations under the Guaranty of Payment, the Environmental Indemnity and/or the 
+Recourse Liability Agreement or otherwise pursuant to a written agreement, and in any event consented to in 
+writing by Borrower in its sole discretion; and “Guarantors” means such Persons collectively. Agent and 
+Lenders acknowledge and agree that as of the date hereof GWRI is the sole Guarantor. 
+“Guaranty of Payment” means that certain Limited Payment Guaranty dated as of the Closing Date 
+made by GWRI in favor of Agent and Lenders. 
+“GWRI” means Great Wolf Resorts, Inc., a Delaware corporation. “GWRI Change of Control” has the meaning set forth in Section 7.16(e) hereof. 
+“GWROP” means GWR Operating Partnership, L.L.L.P., a Delaware limited liability limited 
+partnership. 
+“GWROPGP” means GWR OP General Partner, LLC, a Delaware limited liability company. 
+“Impositions” means and includes all taxes, assessments for public improvements or benefits and 
+any payments in lieu thereof, whether or not commenced or completed prior to the date hereof or while any of 
+the Obligations are outstanding, water rates and sewer rents, charges, license fees, permit fees, inspection fees 
+and other governmental levies or payments, of every kind and nature whatsoever, general and special, foreseen 
+or unforeseen, ordinary and extraordinary, which now or at any time hereafter may be assessed, levied, 
+confirmed, imposed or which may become a lien upon the Mortgaged Property, or any portion thereof, or which 
+are payable with respect thereto, or upon the rents, issues, revenue, income, proceeds or profits thereof, or on the 
+occupancy, operation, use, possession or activities thereof, whether any or all of the same be levied directly or 
+indirectly or as excise or income or franchise taxes in lieu of taxes which are otherwise imposed upon property 
+of the same type as the Mortgaged Property, together with any penalties or other charges with respect to the late 
+payment or non-payment thereof. 
+“Improvements” has the meaning set forth in the Mortgage. 
+“Indebtedness” means: 
+(a) all indebtedness for borrowed money or for the deferred purchase price of property 
+or services (including all obligations, contingent or otherwise in connection with letter of 
+credit facilities, acceptance facilities or other similar facilities); 
+(b) all obligations evidenced by bonds, notes, debentures or other similar instruments; 
+(c) all indebtedness created or arising under any conditional sale or other title retention 
+agreement with respect to property acquired by such Person (even though the rights and 
+remedies of the seller or lender under such agreement in the event of default are limited to 
+repossession or sale of such property); 
+  
+13 
+ 
+(d) all capital lease obligations; 
+(e) all obligations, contingent or otherwise, in connection with indemnities, hold 
+harmless agreements and similar arrangements and in connection with interest rate exchange 
+agreements and similar instruments; and 
+(f) all indebtedness of the nature referred to in clauses (a) through (e) above of another 
+Person guaranteed directly or indirectly or secured by (or for which the holder of such 
+Indebtedness has an existing right, contingent or otherwise, to be secured by) any lien, 
+security interest or other charge or encumbrance upon or in property (including accounts and 
+contract rights) owned by the Person with respect to whom Indebtedness is being determined, 
+even though such Person has not assumed or become liable for the payment of such 
+Indebtedness. 
+“Indemnified Party” has the meaning set forth in Section 11.1(a) hereof. 
+“Initial Maturity Date” means July 15, 2022. 
+“Insurance Policies” means the policies of insurance required to be maintained pursuant 
+to Section 7.11 hereof. 
+“Insurance Requirements” means and includes all provisions of any Insurance Policy, all 
+requirements of the issuer of any such Insurance Policy, and all orders, rules, regulations and other requirements 
+of the National Board of Fire Underwriters (or any other body exercising similar functions) applicable to or 
+affecting the Premises. 
+“Interest” means interest payable on the Loan at the Applicable Interest Rate or the Default Rate, as 
+applicable. “Interest Period” means the period commencing on each Payment Date and ending on the day 
+immediately preceding the next succeeding Payment Date, with the first Interest Period commencing on the 
+Closing Date. 
+“Interest Rate Protection Agreement” means an agreement with respect to an interest rate cap, swap, 
+collar or other interest rate hedge agreement, acceptable to Agent that, in each case, conforms to the 
+requirements set forth in Section 2.6 hereof, and the effect of which is to protect Borrower (to the extent set 
+forth in Section 2.6 and as Borrower may otherwise elect) from an increase in the rate of interest payable by 
+Borrower on the Loan at the Applicable Interest Rate and shall include any Lender Interest Rate Protection 
+Agreement. 
+“Interest Rate Protection Agreement Consent” has the meaning set forth in Section 2.6(a) hereof. 
+“IRC” means the Internal Revenue Code of 1986, as amended. 
+  
+14 
+ 
+“Land” has the meaning set forth in the recitals hereof. 
+“Lease” has the meaning set forth in the Mortgage; provided that, for purposes of the 
+representations in Section 5.37 hereof and the covenants in Section 7.10 hereof, “Leases” shall not include 
+arrangements for the use of guest rooms, meeting/conference space, water park attractions or restaurants, all in 
+the ordinary course of business. 
+“Lease Letter of Credit” means any letter of credit provided to Borrower by any Lessee under, or 
+guarantor of, any Lease as security or otherwise. 
+“Legal Requirements” means, collectively, (a) all current and future laws, statutes, regulations, 
+ordinances, codes, rules, rulings, orders, judgments, decrees, injunctions and other requirements of any 
+Governmental Authority (including those regarding fire, health, handicapped access, sanitation, ecological, 
+historic, zoning, environmental protection, wetlands and building laws and the Americans with Disabilities Act 
+of 1990, Pub. L. No. 89-670, 104 Stat. 327 (1990), as amended, and all regulations promulgated pursuant 
+thereto) in any way directly or indirectly applicable to Borrower or to the acquisition, construction, 
+development, sale, use, occupancy, possession, operation, management, maintenance or ownership of the 
+Premises, or any part thereof; and (b) all requirements of each Operating Permit. 
+“Lender” and “Lenders” have the meaning set forth in the first paragraph of this Loan Agreement. 
+“Lender Interest Rate Protection Agreement” means any Interest Rate Protection Agreement to 
+which Borrower and a Lender or any Affiliate of a Lender (or Agent or any Affiliate of Agent) are parties in the 
+event that Borrower and a Lender or a Lender’s Affiliate (or Agent or Agent’s Affiliate) elect to enter into an 
+Interest Rate Protection Agreement. 
+“Lessee” means a lessee, sublessee, tenant, subtenant, licensee, concession holder or other Person 
+having the right to use or occupy all or any portion of the Premises pursuant to a Lease. 
+“LIBOR” means, with respect to any LIBOR Rate Period, (a) the London Interbank Offered rate for 
+Dollar deposits in an amount comparable to the Loan Portion with respect to which the applicable LIBOR Rate 
+is being determined as appearing on Reuters Screen LIBOR 01 Page (formerly known as Telerate display 
+page 3750) (or such other page as may replace LIBOR 01 Page on that service or such other service as may be 
+nominated by the British Bankers’ Association as the information vendor for the purpose of displaying British 
+Bankers’ Association Interest Settlement Rates for Dollar deposits) at approximately 1:00 p.m. London time (or 
+as soon thereafter as practicable) on the date that is three (3) LIBOR Banking Days prior to the first day of the 
+applicable LIBOR Rate Period and with respect to which LIBOR is being determined for a time period equal to, 
+or if no equal time period is so appearing on Reuters Screen LIBOR 01 Page (formerly known as Telerate 
+display page 3750) (or substitute thereof as aforesaid), the time period so appearing which is most 
+approximately equal to, such LIBOR Rate Period; or (b) if such method for determining “LIBOR” shall not be 
+available, the rate per annum quoted by Agent’s principal London, England office at approximately 1:00 p.m. 
+London time (or as soon thereafter as practicable) on the date which is three (3) LIBOR Banking Days prior to 
+the 
+  
+15  
+first day of the LIBOR Rate Period for the offering by Agent (or Agent’s London or other office, if applicable) 
+to leading banks in the London interbank market of Dollar deposits having a term comparable to such LIBOR 
+Rate Period and in an amount comparable to the principal amount of the Loan Portion with respect to which the 
+applicable LIBOR Rate is being determined. Notwithstanding the foregoing definition, LIBOR in any event 
+shall be no less than one percent (1.00%) per annum. 
+“LIBOR Banking Day” means any Business Day on which dealings in deposits in Dollars are 
+transacted in the London interbank market and banks are also open for business in London, England. 
+“LIBOR Rate” means, with respect to any period during which the Applicable Interest Rate shall be 
+a LIBOR Rate, an interest rate per annum equal to the sum of (a) the applicable LIBOR, plus (b) the LIBOR 
+Rate Margin. 
+“LIBOR Rate Margin” means five percent (5.00%) per annum. 
+“LIBOR Rate Period” means for any Loan Portion, each period for the computation of Interest on a 
+Loan Portion at a LIBOR Rate. Subject to Section 2.3(e) hereof, each LIBOR Rate Period shall have a duration 
+of one (1), three (3) or six (6) months (in each case, subject to general availability), as selected by Borrower in 
+accordance with Section 2.3(c) hereof, or such other period as Borrower and Agent shall agree. Notwithstanding 
+the foregoing, in the case of a LIBOR Rate Period which would otherwise end after the Maturity Date, such 
+LIBOR Rate Period shall have a duration equal to the period commencing on the effective date of such LIBOR 
+Rate Period and ending on and including the Maturity Date. Each LIBOR Rate Period shall commence with 
+respect to any outstanding principal of the Loan, on any date selected by Borrower in accordance 
+with Section 2.3 hereof; provided, however, that notwithstanding anything in this definition of LIBOR Rate 
+Period to the contrary, (i) if any LIBOR Rate Period would otherwise end on a day which is not a LIBOR 
+Banking Day, such LIBOR Rate Period shall be extended to the next succeeding LIBOR Banking Day, unless 
+the result of such extension would be to carry such LIBOR Rate Period over into another calendar month, in 
+which event such LIBOR Rate Period shall end on the immediately preceding LIBOR Banking Day and (ii) any 
+LIBOR Rate Period that begins on the last LIBOR Banking Day of a calendar month (or on a day for which 
+there is no numerically corresponding day in the calendar month at the end of such LIBOR Rate Period) shall 
+end on the last LIBOR Banking Day of the subsequent calendar month. 
+“License Agreement” means, collectively, that certain Great Wolf Lodge License Agreement dated 
+as of April 28, 2008 (as amended by agreement dated as of July 6, 2011) and that certain Reservation Services 
+Agreement dated as of April 29, 2008, each between Borrower and Licensor, together with such modifications 
+or replacements thereof as shall be consented to by Agent in accordance with this Loan Agreement. 
+“Licensor” means Great Lakes Services, LLC, a Delaware limited liability company, a wholly-
+owned Affiliate of GWRI, and any replacement licensor with respect to the Premises approved by Agent. 
+  
+16 
+ 
+“Licensor Tri-Party Agreement” means that certain Tri-Party Agreement, dated as of the Closing 
+Date, among Borrower, Agent and Licensor. 
+“Lien” means any deed of trust, mortgage, pledge, assignment of leases and rents, security interest, 
+encumbrance, lien or charge of any kind including any conditional sale or other title retention agreement, any 
+lease in the nature thereof, or the filing of, or any agreement to give, any financing statement under the Uniform 
+Commercial Code of any jurisdiction. 
+“Loan” has the meaning set forth in Section 2.1 hereof. 
+“Loan Agreement” has the meaning set forth in the first paragraph of this Loan Agreement. 
+“Loan Amount” has the meaning set forth in the recitals hereof. 
+“Loan Documents” means, collectively, this Loan Agreement, the Note, the Mortgage, the 
+Assignment of Leases and Rents, the Assignment of Agreements, the Guaranty of Payment, the Environmental 
+Indemnity, the Recourse Liability Agreement, the Loan Fee Letter, the Borrower’s Certificate, the UCC 
+Financing Statements, the Property Manager Subordination Agreement, the Licensor Tri-Party Agreement, all 
+Lender Interest Rate Protection Agreements, all Account Agreements, all Credit Card Servicer Agreements and all other agreements, certificates or other documents now or hereafter evidencing or securing or executed in 
+connection with the Loan. 
+“Loan Fee Letter” means that certain letter dated as of the Closing Date between Agent and 
+Borrower pertaining to fees payable with respect to the Loan. 
+“Loan Portion” means any principal of the Loan with respect to which an Applicable Interest Rate 
+has been established (and, in the case of any LIBOR Rate, whether or not such Applicable Interest Rate has 
+become effective); provided, however, that the amount of any Loan Portion with respect to which a LIBOR Rate 
+is established shall be at least equal to $1,000,000. 
+“Loan-to-Value Ratio” means the ratio of the outstanding principal amount of the Loan as of the 
+date of determination to the Appraised Value of the Premises and based on the then-most current Appraisal or 
+Appraisal Update. 
+“Major Lease” means a Lease demising 1,000 or more rentable square feet. 
+“Material Adverse Effect” means a material adverse effect on (a) Borrower’s, or any Guarantor’s, as 
+applicable, business, property (including the Premises and other Collateral) or other assets, operations, prospects 
+or condition (financial or otherwise), taken as a whole, (b) Borrower’s or any Guarantor’s, as applicable, ability 
+to perform its obligations under the Loan Documents to which it is a party, including, with respect to Borrower, 
+Borrower’s obligation to keep the Premises open and operating in accordance with Section 7.2 hereof, (c) the 
+enforceability or validity of any Loan Document or the perfection or priority of any Lien created under any 
+Loan Document, or (d) the rights, interests and remedies of Agent or any Lender under the Loan Documents. 
+  
+17 
+ 
+“Material Operating Agreement” means any Operating Agreements hereof which either (a) have 
+non-cancellable terms of longer than one (1) year or (b) require payments by Borrower in excess of $250,000 
+per calendar year. 
+“Material Taking” means a Taking (a) of any portion of the Premises unless the portion so taken 
+constitutes less than ten percent (10%) of the Land, such land is located along the perimeter or periphery of the 
+Land and no portion of the Improvements (other than parking area or roadways, provided that the Premises 
+continues to comply with clause (i) below of this definition and at all times have physical access to a public 
+road, either directly or through valid recorded easements) is located on such land, or (b) of such portion of the 
+Premises or such other property which when so taken would, in Agent’s determination, leave remaining a 
+balance of the Premises (and, if applicable, such other property) which, due to the amount and/or nature of the 
+area so taken and/or the location of the area taken in relation to the area not so taken, (i) would not, under 
+economic conditions, applicable zoning laws, building regulations and the requirements of this Loan 
+Agreement, the Leases, the Permitted Encumbrances, the Premises Documents and the Property Management 
+Agreement, permit the Restoration of the Premises or (ii) would materially and adversely interfere with the 
+marketing, operation, use, leasing or maintenance of the Premises in accordance with the standards set forth 
+in Section 7.2(b) hereof. 
+“Maturity Date” means the Initial Maturity Date, as the same may have been extended pursuant 
+to Section 2.20 hereof, or such earlier date as the entire principal amount of the Loan shall become due and 
+payable by acceleration or otherwise. 
+“Minimum Debt Service Coverage Ratio” shall be satisfied, with respect to any Testing 
+Determination Date (a) on or before the first anniversary of the Closing Date, if the Debt Service Coverage 
+Ratio as of such Testing Determination Date is not less than 1.15:1.00, (b) on or before the second anniversary 
+of the Closing Date but after the first anniversary of the Closing Date, if the Debt Service Coverage Ratio as of 
+such Testing Determination Date is not less than 1.25:1.00 and the Assumed Debt Service Coverage Ratio as of 
+such Testing Determination Date is not less than 1.20:1.00, (c) on or before the Initial Maturity Date but after 
+the second anniversary of the Closing Date, if the Assumed Debt Service Coverage Ratio is not less than 
+1.30:1.00, or (d) during the Extension Term (if any), if the Assumed Debt Service Coverage Ratio is not less 
+than 1.40:1.00. 
+“Mortgage” means that certain Deed of Trust, Security Agreement, Financing Statement, Fixture 
+Filing and Assignment of Rents dated as of the Closing Date made by Borrower for the benefit of Agent. “Mortgaged Property” has the meaning set forth in the Mortgage. 
+“Multiemployer Plan” means a multiemployer plan as defined in Section 4001(a)(3) of ERISA to 
+which Borrower or any ERISA Affiliate has any obligation or liability, contingent or otherwise. 
+“Net Operating Income” means, with respect to any period in connection with which a 
+determination is being made, the excess, if any, of (a) Gross Revenues for such period over (b) Expenses for 
+such period, provided that, solely for purposes of this definition when used 
+  
+18 
+ 
+to calculate the amount of Excess Cash Flow for any period, “Expenses” shall not include any amounts paid in 
+contravention of, or on account of or in connection with any action taken in contravention of, the terms of this 
+Loan Agreement or any other Loan Document and “Gross Revenues” shall include income excluded from the 
+determination of “Gross Revenues” solely due to its extraordinary or non-recurring nature. 
+“Net Proceeds” means the amount of all insurance proceeds paid pursuant to any Insurance Policy 
+as the result of a Casualty, after deduction of the costs and expenses (including fees of any insurance consultant 
+or adjuster and reasonable attorneys’ fees and disbursements), if any, incurred in collecting the same. 
+“Net Restoration Award” means the amount of all awards and payments received on account of a 
+Taking, after deduction of the costs and expenses (including reasonable attorneys’ fees and disbursements), if 
+any, incurred in collecting the same. 
+“Non-Availability Notice” has the meaning set forth in Section 2.10(a) hereof. 
+“Note” means, individually and collectively, the Promissory Notes, each dated as of the Closing 
+Date, made by Borrower in favor of the respective Lenders in the respective amounts of their Commitments and 
+in an aggregate principal amount equal to the Loan Amount, together with any replacements or substitutes for 
+the foregoing. 
+“Obligations” means, collectively, all present and future indebtedness, obligations, duties and 
+liabilities of Borrower to Agent and Lenders arising pursuant to this Loan Agreement, any Lender Interest Rate 
+Protection Agreement and the other Loan Documents or evidenced by the Note, and all interest accruing 
+thereon, together with reasonable attorneys’ fees and disbursements incurred in the drafting, negotiation, 
+enforcement or collection thereof and of the other Loan Documents, regardless of whether such indebtedness, 
+obligations, duties or liabilities are direct, indirect, fixed, contingent, joint, several or joint and several. 
+“OFAC” means the United States Department of Treasury Office of Foreign Assets Control. 
+“OFAC SDN List” means the list of “Specially Designated Nationals and Blocked Persons” 
+maintained by OFAC. 
+“Operating Account” means, collectively, the account(s) identified in Schedule 5.11 attached hereto 
+as the “Operating Account” and any account(s) in substitution thereof or in addition thereto hereafter established 
+in accordance with this Loan Agreement. 
+“Operating Agreement” means any agreement entered into by Borrower, other than the Leases, the 
+Premises Documents, the Property Management Agreement and the License Agreement, that relates to the 
+ownership, operation or maintenance of, or the use, licensing or leasing of any personal property or equipment 
+in connection with the operation and maintenance of, the Premises. 
+“Operating Permits” means, collectively, all authorizations, consents and approvals given by and 
+licenses and permits issued by Governmental Authorities which are 
+  
+19 
+ 
+required for the ownership, use and occupancy of the Premises in accordance with this Loan Agreement, the 
+Loan Documents, all Legal Requirements, the Permitted Encumbrances, the Property Management Agreement 
+and the License Agreement and for the performance and observance of all Legal Requirements and all 
+agreements, provisions and conditions of Borrower contained herein and therein otherwise pertaining to the 
+ownership, use and occupancy of the Premises. “Operating Revenues” means all revenues, receipts, fees and proceeds of any kind actually received 
+by Borrower or by Property Manager on behalf of Borrower from or related to the ownership, leasing, use and 
+operation of, or otherwise derived from, the Premises, including all Rents, concession fees and charges, 
+proceeds from rental or business interruption insurance, sums paid from users of parking spaces, water 
+attractions and other facilities or amenities located on the Premises and all other revenues and amounts arising 
+from the leasing, use and operation of the Premises. 
+“Participant” has the meaning set forth in Section 9.2 hereof. 
+“Patriot Act” means the Uniting and Strengthening America by Providing Appropriate Tools 
+Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, as the same may be amended 
+from time to time, and corresponding provisions of future laws. 
+“Patriot Act Offense” means any violation of the criminal laws of the United States of America or 
+of any of the several states, or that would be a criminal violation if committed within the jurisdiction of the 
+United States of America or any of the several states, relating to terrorism or the laundering of monetary 
+instruments, including any offense under the Patriot Act or other criminal laws against terrorism. “Patriot Act 
+Offense” also includes the crimes of conspiracy to commit, or aiding and abetting another to commit, a Patriot 
+Act Offense. 
+“Payment Date” means the first (1st) Business Day of each calendar month during the Term and the 
+Maturity Date. “Payment Date” shall also include such earlier date, if any, on which the unpaid principal 
+balance of the Loan is paid in full. 
+“PBGC” means the Pension Benefit Guaranty Corporation referred to and defined in ERISA and 
+any successor entity performing similar functions. 
+“Pension Plan” means any employee pension benefit plan (other than a Multiemployer Plan) subject 
+to the provisions of Title IV of ERISA, IRC Section 412 or Section 302 of ERISA, and in respect of which a 
+Borrower or any ERISA Affiliate is (or, if such plan were terminated, would under Section 4069 of ERISA be 
+deemed to be) an “employer” as defined in Section 3(5) of ERISA. 
+“Permitted Encumbrances” means, collectively, (a) the matters set forth in Schedule B of the Title 
+Policy, (b) Liens created by the Loan Documents, (c) Liens for Impositions not yet due or delinquent, or for 
+Impositions or other charges being contested in good faith in accordance with Section 7.8 hereof, (d) Liens for 
+equipment leases permitted under this Loan Agreement and (e) such matters expressly consented to by Agent in 
+its discretion. 
+  
+20 
+ 
+“Permitted FF&E/Capital Budget Reallocation” means a change in any line item in the Approved 
+FF&E/Capital Budget of not more than the lesser of (a) ten percent (10%) of the total amount of the line item 
+from which such amount is being re-allocated or (b) $100,000; provided, however, that any change of $50,000 
+or less shall not require the consent of Agent. 
+“Permitted Indebtedness” means any Indebtedness of Borrower under (i) the Loan Documents, 
+(ii) loans or other advances made from direct or indirect members of Borrower to Borrower to pay for costs of 
+Capital Expenditures, FF&E Expenditures and other expenses with respect to the Premises, provided such loans 
+and advances are expressly subordinate to the Obligations and unsecured, (iii) incidental indemnity and hold 
+harmless agreements under agreements entered into by Borrower in accordance with this Loan Agreement, 
+(iv) unsecured trade payables incurred by Borrower in the ordinary course of operating the Premises which 
+(y) do not exceed, at any time, in the aggregate, $1,000,000 and (z) are paid within sixty (60) days of the date 
+incurred other than amounts disputed in good faith which are not likely to and do not result in a Material 
+Adverse Effect and with respect to which appropriate reserves are made by Borrower and (v) unsecured 
+indebtedness incurred by Borrower in the ordinary course of operating the Premises for financing equipment and 
+other personal property used on the Premises which (y) does not exceed, at any time, in the aggregate, $250,000, 
+and (z) is paid in accordance with the terms of such indebtedness (which terms shall be customary equipment 
+financing terms). 
+“Permitted Personal Property Transaction” means any (a) sale of inventory in the ordinary course of 
+business and in compliance with the operating standards set forth in Section 7.2(b) hereof, provided such 
+inventory is not needed to maintain such operating standards or to comply with the License Agreement, (b) the sale, assignment, trade, transfer, exchange or other disposition of any item of Personal Property in the ordinary 
+course of business and in compliance with the operating standards set forth in Section 7.2(b) hereof which 
+(i) has become obsolete or worn beyond practical use or inadequate, unfit or unadapted for use in the operation 
+of the Premises or the removal and/or replacement of which would result in a cost savings, (ii) has been replaced 
+by a substitute having a value or utility equal to or greater than the replaced item when new, which replacement 
+item is owned by Borrower and is subject to a first, perfected security interest in favor of Agent for the benefit 
+of Lenders or (iii) is set forth in the applicable Approved FF&E/Capital Budget, and (c) equipment financing 
+which qualifies as Permitted Indebtedness. 
+“Permitted Transfer” has the meaning set forth in Section 7.16 hereof. 
+“Person” means an individual, partnership, limited partnership, corporation, limited liability 
+company, business trust, joint stock company, trust, unincorporated association, joint venture, or other entity of 
+any kind. 
+“Personal Property” has the meaning set forth in the Mortgage. 
+“Premises” has the meaning set forth in the Mortgage. 
+“Premises Documents” has the meaning set forth in the Mortgage. 
+  
+21 
+ 
+“Pro Rata Share” means with respect to all matters relating to any Lender, the percentage obtained 
+by dividing (a) the Commitment of such Lender by (b) the aggregate Commitment of all Lenders, in each case 
+as of the date of determination. 
+“Property Leverage Ratio” means, for any Testing Determination Date, the ratio of (a) the 
+outstanding principal amount of the Loan as of such Testing Determination Date to (b) Net Operating Income 
+for the twelve (12) calendar month period ending on such Testing Determination Date. 
+“Property Management Agreement” means that certain Management Services Agreement dated as 
+of April 23, 2008 between Borrower and Property Manager, together with such modifications or replacements 
+thereof as shall be consented to by Agent in accordance with this Loan Agreement. 
+“Property Manager” means Great Lakes Services, LLC, a Delaware limited liability company, a 
+wholly-owned Affiliate of GWRI, and any replacement property manager of the Premises approved by Agent in 
+writing. 
+“Property Manager Subordination Agreement” means that certain Property Manager Subordination 
+and Attornment Agreement dated as of the Closing Date among Borrower, Property Manager and Agent. 
+“Public Company” means a company that is listed on the New York Stock Exchange, Inc. or other 
+public exchange in the United States of America and is subject to the oversight of and regulation by the United 
+States Securities and Exchange Commission. 
+“Qualified Counterparty” means a financial institution (other than a Lender) whose senior long term 
+debt is rated A or better by Standard & Poor’s Ratings Group, A2 or better by Moody’s Investors Service, Inc., 
+or equivalent rating by Fitch Inc. or other nationally recognized rating agency, and which is otherwise 
+confirmed in writing by Agent as being acceptable to Agent. 
+“Recourse Liability Agreement” means that certain Recourse Liability Agreement dated as of the 
+Closing Date made by GWRI for the benefit of Agent. 
+“Recourse Liability Events” means, collectively, any or all of the following: 
+(a) fraud or willful misconduct on the part of Borrower, Borrower Member, any 
+Guarantor or any Affiliate of any such Person; 
+(b) an intentional breach of a material representation or warranty on the part of 
+Borrower, Borrower Member or any Guarantor; 
+(c) appropriation or application of Loan proceeds, Operating Revenues, insurance 
+proceeds, condemnation awards, Security Deposits, sums payable pursuant to any Interest 
+Rate Protection Agreement, or proceeds of the disposition of all or any portion of the Collateral in contravention of this Loan Agreement or any other Loan Document, including a 
+breach by Borrower or Property Manager of Section 2.15 or 2.17 hereof (including the 
+second-to-last sentence of Section 2.17(c) hereof); 
+  
+22 
+ 
+(d) distributions, dividends or payments made in contravention of Section 7.24 hereof; 
+(e) intentional physical waste of the Mortgaged Property or any part thereof; 
+(f) any Transfer in contravention of this Loan Agreement or any other Loan Document; 
+(g) the incurrence of any Indebtedness by Borrower, whether secured or unsecured, in 
+contravention of this Loan Agreement or any other Loan Document; 
+(h) the occurrence of an Event of Default pursuant to clause (j) of Section 8.1 hereof 
+(excluding, from such clause, for the purpose of this definition only, the reference to any 
+Guarantor) or the occurrence of a Default or an Event of Default pursuant 
+to clause (k) of Section 8.1 hereof (excluding from such clause, for purposes of this 
+definition, the reference to any Guarantor) as a result of an action taken by Borrower, 
+Borrower Member, any Guarantor or any Affiliate of any thereof in collusion with another 
+Person or the failure of Borrower or Borrower Member to contest or otherwise seek dismissal 
+of any proceeding or petition referred to therein; 
+(i) any Liens, now or hereafter existing, on any Collateral having priority over the 
+Liens securing the Obligations other than the Permitted Encumbrances; 
+(j) any sums becoming due and payable by Borrower pursuant to ERISA caused by any 
+act or omission of Borrower, Borrower Member or any Guarantor, other than sums becoming 
+due and payable in the ordinary course of plan administration provided such sums are paid 
+when due; 
+(k) the enforcement of the Loan or any of the Loan Documents, provided that liability 
+pursuant to this clause (k) shall be limited to costs and expenses (including reasonable legal 
+fees) paid or incurred by Agent or Lenders in connection therewith or arising out of such 
+enforcement; 
+(l) the imposition of any transfer taxes and/or fees by a Governmental Authority as a 
+result of (i) the transfer of the Premises or any portion thereof, including pursuant to a 
+foreclosure, deed in lieu of a foreclosure or otherwise following the Maturity Date or (ii) any 
+bankruptcy proceeding filed by or against Borrower, Borrower Member or any Guarantor; or 
+(m) the failure to procure and maintain insurance in accordance with the requirements 
+of Section 7.11 hereof. 
+  
+23 
+ 
+“Register” has the meaning set forth in Section 9.6 hereof. 
+“Release Conditions” has the meaning set forth in Section 7.12(d) hereof. 
+“Rents” has the meaning set forth in the Mortgage. 
+“Requisite Lenders” means, at any time, non-Defaulting Lenders having Commitments representing 
+at least sixty-six and two-thirds percent (66-2/3%) of the total Commitments of all non-Defaulting Lenders at 
+such time. 
+“Restoration” means in case of a Casualty or a Taking, the restoration, replacement or rebuilding of 
+the portion of the Premises affected by the Casualty or Taking such that when such restoration, replacement or 
+rebuilding is completed, the Premises shall have been restored, in the case of any Casualty, substantially to the 
+same character and condition as prior to such Casualty, and in the case of any Taking, to an integral unit as 
+substantially similar as possible, taking into account the extent of the Taking, to substantially the character and 
+condition of the Premises prior to such Taking, in each case in accordance with this Loan Agreement, all Legal 
+Requirements, the Leases, the Premises Documents, the Permitted Encumbrances, the Property Management 
+Agreement and the License Agreement and to the extent any alterations or additions were made in compliance 
+with this Loan Agreement, with any such alterations or additions. In any case, Restoration shall (i) provide 
+substantially the same amount and type utilities and at least ninety percent (90%) of the parking spaces (of the same type) applicable to the Premises as existed prior to such Casualty or Taking (but in no case less than what 
+is required by Legal Requirements and the Permitted Encumbrances), (ii) provide sufficient (in Agent’s 
+reasonable determination) access across and over the Premises to the public roads and highways (either directly 
+or indirectly through valid recorded easements that benefit the Premises) and (iii) be such that the Loan-to-
+Value Ratio of the Premises, as determined by an Appraisal at Borrower’s expense, when so restored, together 
+with the amount of any Net Proceeds or Net Restoration Award received by Agent and applied in repayment of 
+the principal amount of the Loan, shall be equal to or less than fifty-five percent (55%). 
+“Security Deposit” means any cash security or other deposit given by or on behalf of a Lessee to the 
+landlord under a Lease. 
+“Security Documents” means, collectively, this Loan Agreement, the Mortgage, the Assignment of 
+Agreements, the Assignment of Leases and Rents, any Account Agreement, the UCC Financing Statements and 
+any other Loan Document entered into to secure the Obligations. 
+“Significant Alteration” means with respect to any fiscal year of Borrower, any alteration, building 
+or improvement in, to or otherwise with respect to the Premises which costs or will cost in excess of $1,000,000 
+or, when aggregated with all related alterations, buildings and improvements made by or on behalf of Borrower 
+at the Premises, costs or will cost in excess of $1,000,000; provided, however, that the costs of the currently 
+contemplated alteration to the Premises to include a building to be used primarily as an exhibit hall, 
+meeting/conference space and multi-use facility for youth sports, with related facilities and a connection to the 
+existing conference space via a covered walkway, up to a maximum of $1,200,000, shall not count against such 
+limit, and such planned alterations shall not constitute a “Significant Alteration”. 
+  
+24 
+ 
+“Special Purpose Entity” has the meaning set forth on Exhibit G attached hereto. 
+“Spread Maintenance Fee” has the meaning set forth in Section 2.4(c) hereof. 
+“Spread Maintenance Period” has the meaning set forth in Section 2.4(c) hereof. 
+“Survey” means that certain survey dated February 20, 2008 and last revised July 11, prepared by 
+Eagle Engineering and designated as Project No. 3297. 
+“Taking” (and its correlative meanings) means any temporary or permanent taking by any 
+Governmental Authority of the Premises or any portion thereof through eminent domain, condemnation or other 
+proceedings or by any settlement or compromise of such proceedings, or any voluntary conveyance of such 
+property or any portion thereof during the pendency of any such proceedings. 
+“Taxes” has the meaning set forth in Section 2.9 hereof. 
+“Tenant Security Account” has the meaning set forth in Section 2.18 hereof. 
+“Term” means the period commencing on the Closing Date and ending on the Maturity Date. 
+“Testing Determination Date” means the last day of each Calendar Quarter. 
+“Title Company” means First American Title Insurance Company. 
+“Title Continuation” means an endorsement to the Title Policy indicating that, since the Closing 
+Date or the most recent Title Continuation, as applicable, there has been no change in the state of title to the 
+Premises (except for, in either case, Permitted Encumbrances) and no Liens or survey exceptions not theretofore 
+approved by Agent as provided herein or otherwise permitted by this Loan Agreement, which endorsement shall 
+contain no exception for inchoate mechanic’s liens and shall have the effect of redating the Title Policy to a date 
+specified by Agent. 
+“Title Policy” means the mortgagee title insurance policy in favor of Agent issued on the Closing 
+Date, including all endorsements thereto. 
+“Transfer” has the meaning set forth in Section 7.16 hereof. 
+“UCC Financing Statements” means such UCC financing statements as Agent shall deem necessary 
+or desirable to perfect Agent’s security interest in the Collateral (or any portion thereof). “Uniform System of Accounts” means the accounting standards printed in the then most recently 
+revised edition of A Uniform System of Accounts for Hotels, as adopted by 
+  
+25 
+ 
+the Hotel Association of New York City, Inc. and the American Hotel and Motel Association, as amended or 
+changed from time to time by the Hotel Association of New York City, Inc. and the American Hotel and Motel 
+Association (or other appropriate board or committee of both Associations); except that any accounting 
+principle or practice required or permitted to be changed by the Hotel Association of New York City, Inc. and 
+the American Hotel and Motel Association (or other appropriate board or committee of both Associations) in 
+order to continue as an accounting standard or practice may be so changed only so long as such required or 
+permitted change shall not have the effect of permitting Borrower’s compliance with any financial covenants or 
+performance tests contained in this Loan Agreement when without such change, Borrower would not so comply. 
+“Withdrawal Liability” means at any time the aggregate liability incurred (whether or not assessed) 
+with respect to all Multiemployer Plans pursuant to Section 4201 of ERISA or for increases in contributions 
+required to be made pursuant to Section 4243 of ERISA. 
+SECTION 1.2. Other Definitional Provisions. 
+(a) All terms defined in this Loan Agreement shall have the above-defined meanings when used in 
+the Note or any of the other Loan Documents, or in any other certificate, report or other document made or 
+delivered pursuant to this Loan Agreement, unless the context therein shall otherwise require. 
+(b) Whenever appropriate herein or required by the context or circumstances, the masculine shall be 
+construed as the feminine and/or the neuter, the singular as the plural, and vice versa. 
+(c) The words “hereof”, “herein”, “hereunder” and similar terms when used in this Loan Agreement 
+shall refer to this Loan Agreement as a whole and not to any particular provision of this Loan Agreement. 
+(d) The words “include” and “including” wherever used in this Loan Agreement or any other Loan 
+Document shall be deemed to be followed by the words “without limitation”. 
+(e) Any reference to any Loan Document or any other document, instrument or agreement in this 
+Loan Agreement or in any other Loan Document shall be deemed to mean such Loan Document or other 
+document, instrument or agreement, as applicable, as it may from time to time be amended, supplemented, 
+restated, consolidated, severed, split, extended, substituted for, partially released, replaced, increased, waived, 
+cross-collateralized, renewed or otherwise modified in accordance with the terms of the Loan Documents. 
+ARTICLE II 
+THE LOAN 
+SECTION 2.1. The Loan; Use of Funds. Subject to the conditions and upon the terms herein 
+provided, each Lender severally agrees to lend to Borrower and Borrower agrees to borrow from each Lender, 
+on the Closing Date, an amount equal to such Lender’s 
+  
+26 
+ 
+Commitment, which Commitments in the aggregate shall equal the Loan Amount, or such lesser amount as shall 
+be the maximum amount available pursuant to the terms of this Loan Agreement (the “Loan”). The Loan shall 
+be made by Lenders ratably in proportion to their respective Commitments. The Loan shall be evidenced by the 
+Note. Interest and Additional Interest, if any, shall be payable in accordance with the Note and this Loan 
+Agreement. The Loan shall be repaid with Interest, Additional Interest, costs, fees and charges as more 
+particularly set forth in this Loan Agreement, the Note, the Mortgage and the other Loan Documents. Principal 
+amounts of the Loan which are repaid for any reason may not be reborrowed. Borrower shall use the proceeds of 
+the Loan to refinance the existing mortgage loan with respect to the Premises and to pay the costs incurred by 
+Borrower and its Affiliates to close the Loan; provided, however, that in any case, Borrower shall not use any of 
+the Loan proceeds in any manner or for any purpose that violates Legal Requirements or which could result in 
+the Loan being in violation of, or in any penalty or liability of Agent or any Lender under, the Patriot Act or 
+similar Legal Requirements. SECTION 2.2. Interest. 
+(a) Interest at the Applicable Interest Rate. Until paid in full, and subject 
+to Sections 2.5(c) and 2.10 hereof, each Loan Portion shall bear interest at an interest rate (an “Applicable 
+Interest Rate”) which shall be a LIBOR Rate or Base Rate as designated by Borrower pursuant 
+to Section 2.3 hereof or as otherwise provided in Section 2.3 hereof. 
+(b) Interest Payments. Borrower shall pay Interest as provided in this Loan Agreement on each 
+Loan Portion on each Payment Date, in arrears, for the Interest Period then ending. Borrower shall pay 
+Additional Interest as and when provided herein. 
+(c) Calculation of Interest. 
+(i) Interest accruing at the Applicable Interest Rate shall be calculated on the basis of the 
+actual number of days elapsed and a year of 360 days. 
+(ii) Any change in the Base Rate shall be automatically effective as of the day on which 
+such change in rate occurs. 
+(iii) Each determination of an interest rate by Agent pursuant to any provision of this Loan 
+Agreement shall be conclusive and binding on Borrower in the absence of manifest error. 
+SECTION 2.3. Determination of Applicable Interest Rate. 
+(a) Applicable Interest Rate. 
+(i) The initial Applicable Interest Rate for the Loan shall be the LIBOR Rate selected by 
+Borrower in writing and delivered to Agent on the Closing Date. 
+(ii) The Applicable Interest Rate (and any related LIBOR Rate Period) from time to time 
+applicable to any Loan Portion upon and after the expiration of any LIBOR Rate Period with respect to such 
+Loan Portion shall be determined in the manner set forth in Section 2.3(b) and (d) hereof. 
+  
+27 
+ 
+(iii) After a conversion election, each Loan Portion shall bear interest during each applicable 
+Interest Period at the Applicable Interest Rate as shall have been designated pursuant to Section 2.3(b) hereof, or 
+as otherwise provided in Section 2.3(d) hereof. In connection with the selection or conversion of the Applicable 
+Interest Rate pursuant to Section 2.3(b) hereof, Borrower shall specify the principal amount of the Loan Portion 
+for which such selection or conversion is being made. 
+(iv) At any particular time, the sum of all Loan Portions shall equal the outstanding principal 
+amount of the Loan. 
+(b) LIBOR Rate Conversion Options. Subject to Sections 2.5(b) and 2.3(e) hereof, Borrower may 
+elect to convert the Applicable Interest Rate (i) with respect to any Loan Portion which bears interest at the Base 
+Rate, from the Base Rate to a LIBOR Rate effective on any LIBOR Banking Day, or (ii) with respect to any 
+portion of the Loan which bears interest at a LIBOR Rate, from such LIBOR Rate to another LIBOR Rate 
+effective upon the expiration of the then current LIBOR Rate Period; provided, however, that (x) there shall not 
+have occurred and be continuing any Event of Default, (y) the circumstances referred to 
+in Section 2.10(a) hereof shall not have occurred and be continuing, and (z) after giving effect to such 
+conversion, the number of LIBOR Rates in effect shall not exceed, in the aggregate, three (3). If Borrower 
+wishes to convert the Applicable Interest Rate on any Loan Portion as permitted by the preceding sentence, an 
+Authorized Borrower Representative shall give notice thereof (which shall be irrevocable) to Agent to the 
+attention of an Authorized Agent Representative prior to 3:00 p.m. (New York City time) on the day that is not 
+less than three (3) LIBOR Banking Days prior to the proposed conversion date specifying (A) the principal 
+amount of the Loan with respect to which such conversion shall occur, (B) the proposed conversion date, which 
+shall be determined in accordance with the preceding sentence, and (C) the applicable LIBOR Rate Period. 
+(c) Intentionally omitted. 
+(d) Reversion to Base Rate or One-Month LIBOR Rate. If an Authorized Borrower 
+Representative fails timely to notify an Authorized Agent Representative in accordance with Section 2.3(b) hereof of Borrower’s election of a LIBOR Rate or Base Rate for any Loan Portion with an 
+expiring LIBOR Rate Period or fails to provide all of the information required by Section 2.3(b) hereof for the 
+election of a LIBOR Rate, the Applicable Interest Rate on such Loan Portion shall automatically upon the 
+expiration of such LIBOR Rate Period convert to a LIBOR Rate for a LIBOR Rate Period of one (1) month or, 
+if such one-month LIBOR Rate Period would end after the Maturity Date, the Applicable Interest Rate shall 
+convert to, at Agent’s option, either the Base Rate or a LIBOR Rate for a LIBOR Rate Period having a duration 
+equal to the period commencing upon the expiration of such expiring LIBOR Rate Period and ending on and 
+including the Maturity Date, subject, in any case, to the proviso in the definition of “LIBOR Rate Period” 
+herein. If Borrower is not permitted to elect a LIBOR Rate pursuant to clause (x) or (z) of Section 2.3(b) hereof, 
+the Applicable Interest Rate on such Loan Portion shall automatically upon the expiration of such LIBOR Rate 
+Period convert to a Base Rate. 
+  
+28 
+ 
+(e) Interest Rate Corresponding to Interest Rate Protection Agreements. Notwithstanding 
+anything to the contrary set forth in this Section 2.3, at all times that Borrower is required to cause one or more 
+Interest Rate Protection Agreements to be in effect pursuant to Section 2.6(a) hereof, Borrower shall cause a 
+portion of the Loan corresponding to the notional amount with respect to which any such Interest Rate 
+Protection Agreements were established to have an Applicable Interest Rate which is a LIBOR Rate having a 
+LIBOR Rate Period of one (1) month. 
+SECTION 2.4. Principal Payments. 
+(a) Principal Payment at Maturity. Borrower shall pay the unpaid principal balance of the Loan in 
+a single installment on the Maturity Date, together with all accrued Interest and all other sums due under the 
+Loan Documents. 
+(b) Amortization Payments. On the first (1st) Payment Date of each Calendar Quarter after the 
+Closing Date, Borrower shall pay to Agent, in addition to Interest then due, an amount equal to, in the case of 
+the first four (4) payments, $125,000, and in the case of each subsequent payment, $375,000, which shall be 
+applied in reduction of the outstanding principal balance of the Loan. Prepayments of the Loan made pursuant 
+to Section 2.4(c) or other provision hereof shall not reduce the amount of such scheduled amortization 
+payments. 
+(c) Optional Prepayments. Borrower may, upon at least five (5) Business Days’ prior written 
+notice to Agent, prepay the Loan, in whole or in part (in amounts equal to at least $1,000,000), in accordance 
+with this Section 2.4(c); provided, however, that if such prepayment is made during the period from the Closing 
+Date through the date twenty-four (24) months after the Closing Date (such period, the “Spread Maintenance 
+Period”), as a condition to such prepayment, Borrower shall, concurrently with such prepayment, pay to Agent 
+for the pro rata benefit of the Lenders the applicable Spread Maintenance Fee (as defined below). Any such 
+prepayment notice shall be irrevocable and shall specify the Payment Date and amount of the prepayment. 
+Concurrently with, and as a condition to, any such prepayment, Borrower shall pay to Agent all sums required to 
+be paid Agent or Lenders pursuant to, and shall otherwise comply with, Section 2.4(f) hereof. As used herein, 
+the “Spread Maintenance Fee” shall be one and one-half percent (1.50%) of the amount prepaid, in the case of a 
+st
+prepayment made before the first (1 ) anniversary of the Closing Date, or one percent (1.0%) of the amount 
+st
+prepaid, in the case of a prepayment made on or after the first (1 ) anniversary of the Closing Date but before 
+nd
+the second (2 ) anniversary of the Closing Date. In addition, in the event the Maturity Date is accelerated during 
+the Spread Maintenance Period, a Spread Maintenance Fee computed as though the entire outstanding principal 
+amount of the Loan were prepaid as of the date of acceleration shall be due and payable by Borrower upon such 
+acceleration. 
+(d) Other Sums. Borrower shall pay to Agent all other sums owed to Agent and/or Lenders 
+pursuant to the Loan Documents when such sums are due and payable as provided in the applicable Loan 
+Document, or if not provided therein, within ten (10) Business Days after the due date thereof or if demand is 
+expressly required, within ten (10) Business Days after written demand by Agent. To the extent any other such 
+sums are determined on a per diem or similar basis, such sums shall be calculated on the basis of a 360-day year 
+and the actual number of days elapsed. 
+  
+29 
+ (e) Mandatory Prepayment. Borrower shall be required to prepay the Loan at any time and from 
+time to time upon the occurrence of any of the circumstances requiring prepayment described in this Loan 
+Agreement (including Section 2.15 hereof) or the Mortgage by paying the principal amount so required to be 
+prepaid. Concurrently with any such prepayment, Borrower shall pay to Agent all sums required to be paid to 
+Agent or Lenders pursuant to, and shall otherwise comply with, Section 2.4(f) hereof. 
+(f) Reduction of Interest Rate Protection Arrangement and Payment of Other 
+Sums. Concurrently with any payment or prepayment of principal pursuant to Section 2.4 (c) or (e) hereof, 
+Borrower shall, as a further condition of such prepayment, (w)(1) in the case of any Lender Interest Rate 
+Protection Agreement other than an interest rate cap, if the prepayment reduces the amount of the Loan subject 
+to the Lender Interest Rate Protection Agreement, cause a reduction of the notional amount of such Lender 
+Interest Rate Protection Agreement in an amount equal to the excess of the notional amount of such Lender 
+Interest Rate Protection Agreement over the outstanding principal balance of the Loan taking into account such 
+prepayment, (2) pay all sums, if any, payable by Borrower pursuant to any Interest Rate Protection Agreement 
+with respect to such reduction and (3) provide evidence to Agent of Borrower’s compliance 
+with clauses (1) and (2) above, (x) pay all accrued and unpaid Interest to and including the date of such 
+prepayment on the amount being prepaid, (y) pay all Additional Interest and any other amounts due and payable 
+under any Loan Document as a result of such repayment or prepayment and (z) if such repayment or 
+prepayment repays the entire outstanding amount of the Loan, pay all other outstanding amounts then due and 
+payable under the Loan Documents. 
+SECTION 2.5. Payment; Default Rate; Application of Certain Monies; Priority of Payments; 
+Set-offs. 
+(a) Manner of Payment. All sums payable by Borrower to or for the account of Agent or any 
+Lenders under this Loan Agreement or any other Loan Document shall be made in Dollars and in immediately 
+available funds not later than 1:00 p.m. (New York City time) on the date when such payment is due and shall 
+be payable by wire transfer in accordance with the wiring instructions attached hereto as Exhibit H or such other 
+wiring instruction as Agent may provide to Borrower from time to time. Funds received by Agent after 1:00 
+p.m. (New York City time) shall be treated for all purposes as having been received by Agent on the 
+immediately succeeding Business Day, and Borrower shall be responsible for any costs of Agent and Lenders 
+resulting therefrom, including any Additional Interest or overdraft charges. 
+(b) Payment on a Non-Business Day. Whenever any payment to be made under the Loan 
+Documents shall be stated to be due, or if the Maturity Date would otherwise occur, on a day which is not a 
+Business Day, such payment shall be made, and the Maturity Date shall occur, as applicable, on the immediately 
+succeeding Business Day. Any such extension of time shall be included in the computation of payment of 
+Interest (including interest at the Default Rate), fees, and Additional Interest. 
+  
+30 
+ 
+(c) Default Rate. 
+(i) Notwithstanding anything to the contrary contained herein or in another Loan Document, 
+if an Event of Default shall have occurred and be continuing, the Loan shall bear Interest from and including the 
+date of the occurrence of such Event of Default (after as well as before judgment) at a fluctuating rate of interest 
+per annum equal to the Default Rate, which interest at the Default Rate shall be payable upon demand of Agent. 
+Interest accruing at the Default Rate shall be calculated on the basis of the actual number of days elapsed and a 
+year of 360 days. 
+(ii) If Borrower shall fail to make a payment on the due date therefor (i.e., the scheduled due 
+date or within the required number of days following written demand therefor to the extent provided under the 
+Loan Documents) of any sum under the Loan Documents (whether principal (other than principal which is 
+accruing interest at the Default Rate pursuant to Section 2.5(c)(i) above), Interest, Additional Interest or other 
+amounts), such sum shall bear Interest from and including the date such payment is due to but excluding the 
+date such payment is made (after as well as before judgment) at a fluctuating rate of interest per annum equal to 
+the Default Rate with respect to such sum. 
+(iii) Agent’s failure to collect interest at the Default Rate at any time shall not constitute a 
+waiver of Agent’s right thereafter, at any time and from time to time (including upon acceleration of the 
+Maturity Date or upon payment in full of the Loan), to collect such previously uncollected interest at the Default 
+Rate or to collect subsequently accruing interest at the Default Rate. (d) Late Payment Fee. Borrower shall pay to Agent for the account of the Lenders a late payment 
+premium in the amount of five percent (5%) of any principal payment, Interest, Additional Interest, fee or other 
+amount payable under any Note, this Loan Agreement or the other Loan Documents made more than seven 
+(7) days after the due date thereof (i.e., the scheduled due date or within the required number of days following 
+written demand therefor to the extent provided under the Loan Documents), which late payment premium shall 
+be due with any such late payment. The acceptance of a late payment premium shall not constitute a waiver of 
+any Default or Event of Default then existing or thereafter arising. Agent’s failure to collect a late payment 
+premium at any time shall not constitute a waiver of Agent’s right thereafter, at any time and from time to time 
+(including upon acceleration of the Maturity Date or upon payment in full of the Loan), to collect such 
+previously uncollected late payment premiums or to collect subsequently accruing late payment premiums. 
+(e) Priority of Payments. All payments received with respect to the Loan shall be applied on 
+account of sums due and owing pursuant to the Note, this Loan Agreement, the Mortgage or the other Loan 
+Documents in the following order of priority: 
+first, to the payment of all amounts due and then owing pursuant to the Note, the Loan Agreement 
+and the other Loan Documents which do not constitute either principal or Interest; 
+second, to the payment of Interest due and then owing; and 
+  
+31 
+ 
+third, to the unpaid principal balance of the Loan (and such payments applied to principal shall be 
+applied first to the portion of the principal balance of the Loan, if any, not subject to an Interest Rate Protection 
+Agreement, and then to the remaining portion of the principal balance of the Loan subject to an Interest Rate 
+Protection Agreement); 
+provided, however, in the event that an Event of Default shall have occurred and shall then be continuing, or 
+such payments are insufficient to pay all amounts then due and owing pursuant to the Loan Documents, all such 
+payments, including sums received in connection with the exercise of any remedies pursuant to the Loan 
+Documents, shall be applied in such order and manner as the Requisite Lenders shall elect; 
+and provided, further, that, the Requisite Lenders may apply payments first to satisfy the portion of the 
+Obligations, if any, for which Borrower, any Guarantor or any other Person has no personal, partnership, 
+company or corporate liability, and then to the remaining Obligations. 
+(f) No Set-offs. All sums payable by Borrower under the Note, this Loan Agreement and the other 
+Loan Documents shall be paid in full and without set-offs, counterclaims, deductions or withholdings of any 
+kind. 
+SECTION 2.6. Interest Rate Protection Agreement. 
+(a) Interest Rate Protection Agreement. On or before the Closing Date, Borrower shall enter into 
+and satisfy all conditions precedent to the effectiveness of an Interest Rate Protection Agreement that shall 
+satisfy all of the following conditions and shall thereafter maintain such Interest Rate Protection Agreement in 
+full force and effect from the Closing Date through the Initial Maturity Date: 
+(i) The Interest Rate Protection Agreement shall be an interest rate cap, swap, collar or other 
+derivative product acceptable to Agent, the effect of which is to protect Borrower against upward fluctuations of 
+LIBOR (as opposed to the LIBOR Rate) applicable to a LIBOR Rate Period of one (1) month in excess of three 
+percent (3.0%) per annum during the Term and in a notional amount equal to eighty percent (80%) of the Loan 
+Amount; 
+(ii) The Interest Rate Protection Agreement shall be entered into between Borrower and, at 
+Borrower’s option, (A) Agent or an Affiliate of Agent if Agent or such Affiliate and Borrower shall elect to 
+enter into an Interest Rate Protection Agreement, (B) Crédit Agricole or another Lender or an Affiliate of Crédit 
+Agricole or another Lender if Crédit Agricole or another Lender or such Affiliate and Borrower shall elect to 
+enter into an Interest Rate Protection Agreement or (C) a Qualified Counterparty; 
+(iii) In the case of an Interest Rate Protection Agreement that is an interest rate cap 
+agreement, all sums payable by Borrower on account of the purchase price for the Interest Rate Protection 
+Agreement during the term of the Interest Rate Protection Agreement shall have been paid in full on or prior to 
+the effective date thereof; (iv) Borrower’s interest in such Interest Rate Protection Agreement, including all rights of 
+Borrower to payment thereunder and any residual value thereof, shall have been collaterally assigned to Agent 
+pursuant to the Mortgage and the Assignment of Agreements; 
+  
+32 
+ 
+(v) The financial institution which is party to such Interest Rate Protection Agreement shall 
+have executed and delivered to Agent a consent to the collateral assignment of Borrower’s interest in such 
+Interest Rate Protection Agreement referred to in clause (iv) above pursuant to a consent in the form annexed 
+hereto as Schedule 2.6(a) or otherwise in form and content reasonably acceptable to Agent (the “Interest Rate 
+Protection Agreement Consent”); and 
+(vi) Such Interest Rate Protection Agreement shall be satisfactory to Agent in form and 
+content. 
+(b) Failure to Provide Interest Rate Protection. In the event that Borrower breaches its obligation 
+to enter into and maintain an Interest Rate Protection Agreement in full force and effect as set forth 
+in Section 2.6(a) hereof, in addition to Agent’s rights and remedies hereunder or under the other Loan 
+Documents, Agent may, but shall have no obligation to, at Borrower’s sole cost and expense and on Borrower’s 
+behalf, enter into an Interest Rate Protection Agreement as may be required pursuant to Section 2.6(a) hereof. In 
+the event that Agent shall elect to enter into an Interest Rate Protection Agreement on Borrower’s behalf, such 
+Interest Rate Protection Agreement, at Agent’s election, may be a Lender Interest Rate Protection Agreement. In 
+the event that Borrower breaches its obligations to enter into or maintain an Interest Rate Protection Agreement 
+in full force and effect as set forth in Section 2.6(a) hereof and during the continuance of such breach, Agent is 
+hereby irrevocably appointed the true and lawful attorney of Borrower (coupled with an interest), in its name 
+and stead, to execute such an Interest Rate Protection Agreement and all necessary documents ancillary thereto, 
+and for that purpose Agent may execute all necessary agreements and instruments, and may substitute one or 
+more persons with like power, Borrower hereby ratifying and confirming all that its said attorney or such 
+substitute or substitutes shall lawfully do by virtue hereof. All sums paid and liabilities incurred by Agent 
+pursuant to this Section 2.6 shall be paid by Borrower (and not from the proceeds of the Loan) within ten 
+(10) Business Days after Agent’s demand with interest at the Default Rate to the date of payment to Agent and 
+such sums and liabilities, including such interest, shall be deemed and shall constitute advances under this Loan 
+Agreement and be evidenced by the Note and be secured by the Security Documents. 
+(c) Obligation of Borrower Unaffected by Interest Rate Protection Agreement. No Interest Rate 
+Protection Agreement shall alter, impair, restrict, limit or modify in any respect the obligation of Borrower to 
+pay Interest or Additional Interest on the Loan, as and when the same becomes due and payable in accordance 
+with the provisions of the Loan Documents. 
+(d) Termination, etc. of Interest Rate Protection Agreement. Borrower shall not terminate, 
+modify, cancel or surrender, or permit the termination, modification, cancellation or surrender of, any Interest 
+Rate Protection Agreement without the prior consent of the Requisite Lenders. Within ten (10) Business Days 
+after Borrower obtains knowledge of or receipt of notice (which may be given by Agent or a Lender) of a 
+default by the financial institution that is a party to any Interest Rate Protection Agreement, Borrower shall 
+substitute for such defaulted Interest Rate Protection Agreement another Interest Rate Protection Agreement (to 
+which the Person that defaulted under the defaulted Interest Rate Protection Agreement is not a party) so that, 
+after giving effect to such substitution, Borrower is in compliance with the requirements 
+of Section 2.6(a) hereof. 
+  
+33 
+ 
+(e) Receipts from Interest Rate Protection Agreements. All payments due to Borrower pursuant 
+to any Interest Rate Protection Agreement, including upon any termination thereof, shall be payable to and held 
+by Agent; provided, however, that all periodic “net payments” and any other payments due to Borrower so 
+received by Agent in connection with a payment made by a counterparty to an Interest Rate Protection 
+Agreement shall be applied by Agent on account of Interest then due and payable or which becomes due and 
+payable on the Loan. If an Event of Default occurs, Agent may, in its sole discretion, for so long as such Event 
+of Default is continuing and in addition to any other rights and remedies hereunder, apply the amounts so held 
+by Agent to the Loan or other amounts due under the Loan Documents at Agent’s election. Until such time as all 
+Obligations have been paid in full, Borrower shall have no right to withdraw or otherwise apply any funds 
+received by Agent on account of any Interest Rate Protection Agreement. Such funds shall constitute additional security for the Obligations, a security interest therein being granted hereby. In the event Borrower receives any 
+sums pursuant to or in connection with any Interest Rate Protection Agreement, it shall immediately pay such 
+sums to Agent. 
+(f) Security. No Interest Rate Protection Agreement shall be secured by all or any portion of the 
+Collateral unless it is a Lender Interest Rate Protection Agreement, in which case such Lender Interest Rate 
+Protection Agreement shall be secured pari passu with the other sums secured by the Mortgage and other 
+Security Documents. 
+SECTION 2.7. Intentionally Omitted. 
+SECTION 2.8. Additional Interest. Borrower shall pay to Agent the following losses, costs and 
+expenses of Agent or any Lender incurred or reasonably estimated by Agent or such Lender, as applicable, to be 
+incurred: 
+(a) All “breakage” charges, i.e., losses, costs and expenses (including internal charges but excluding 
+consequential damages and excluding lost LIBOR Rate Margin) incurred by reason of obtaining, liquidating or 
+redeploying deposits or other funds acquired by Agent or such Lender to fund or maintain the Loan as a result of 
+any prepayment of the Loan or any delay or failure to prepay the Loan when required hereunder or otherwise; 
+and 
+(b) Any sums becoming payable by Borrower pursuant to any Lender Interest Rate Protection 
+Agreement, including any termination thereof. 
+In any of the foregoing events, Borrower shall pay to Agent, (i) as to amounts due under clause (a) above, 
+concurrently with the principal payment, in the case of such breakage charges in connection with a payment of 
+principal, and within ten (10) Business Days after written demand in all other cases or (ii) in the case of any 
+Lender Interest Rate Protection Agreement, within ten (10) Business Days or such shorter period as shall be 
+specified therein after written demand, such amount as shall equal the amount of the Additional Interest certified 
+by Agent (or the applicable Lender) to Borrower by reason of such event. A certificate as to the amount of such 
+Additional Interest submitted by Agent to Borrower setting forth Agent’s (or the applicable 
+  
+34 
+ 
+Lender’s) basis for the determination of Additional Interest shall be conclusive evidence of the amount thereof, 
+absent manifest error. Failure on the part of Agent to demand payment from Borrower for any Additional 
+Interest attributable to any particular period shall not constitute a waiver of Agent’s (or the applicable Lender’s) 
+right to demand payment of such amount for any subsequent or prior period. 
+SECTION 2.9. No Withholdings. All sums payable by Borrower under the Note, this Loan 
+Agreement and the other Loan Documents, shall be paid in full and without set-off or counterclaims and free of 
+any deductions or withholdings for any and all present and future taxes, levies, imposts, deductions, duties, 
+filing and other fees or charges, excluding Excluded Taxes (collectively, “Taxes”). In the event that Borrower is 
+prohibited by any law from making any such payment free of such deductions or withholdings with respect to 
+Taxes, then Borrower shall pay such additional amount to Agent as may be necessary in order that the actual 
+amount received by Lenders after such deduction or withholding (and after payment of any additional Taxes due 
+as a consequence of the payment of such additional amount) shall equal the amount that would have been 
+received if such deduction or withholding were not required; provided, however, that Borrower shall not be 
+obligated to pay such additional amount on account of a specific Lender if at the time such Lender became a 
+“Lender” hereunder, Borrower is required to deduct or withhold any sums solely because such Lender had a 
+legal basis to deliver, but failed to deliver, to Borrower a duly executed copy of United States Internal Revenue 
+Service Form W-8 BEN, W-8 ECI, W-9 or other form or statement prescribed by law from time to time and 
+applicable to a Lender (in such number of copies as may be prescribed by law from time to time), and any 
+required renewal thereof, as the case may be, which, pursuant to the applicable provisions of an income tax 
+treaty between the United States and the country of residence of the Lender, the IRC, or any applicable rule or 
+regulation under the IRC, indicate that such Lender is entitled to receive payments under the Loan Documents 
+without deduction or withholding of any United States federal income taxes, or at a tax rate that is reduced to 
+zero (or, upon written request of Borrower specifying the applicable form which such Lender may in accordance 
+with law sign with no disadvantageous consequences to it or any of its affiliates as determined by such Lender, 
+at a reduced rate of tax or deduction), and as result of such failure, Borrower was prohibited by the IRC from 
+making any such payment free (or at a reduced rate as aforesaid) of such deductions or withholding. 
+Notwithstanding anything contained in this Section 2.9, in no event will any Lender’s failure to deliver any such forms, or any renewal or extension thereof, affect, postpone or relieve Borrower from any obligation to pay 
+Interest, principal, Additional Interest and other amounts due under the Loan Documents (other than as 
+expressly set forth above in this Section 2.9). Such additional amount shall be due concurrently with the 
+payment with respect to which such additional amount is owed in the amount of Taxes certified by Agent (or the 
+applicable Lender). A certificate as to the amount of Taxes submitted by Agent to Borrower setting forth 
+Agent’s (or the applicable Lender’s ) basis for the determination of Taxes shall be conclusive evidence of the 
+amount thereof, absent manifest error. Failure on the part of Agent to demand payment from Borrower for any 
+Taxes attributable to any particular period shall not constitute a waiver of Agent’s (or the applicable Lender’s) 
+right to demand payment of such amount for any subsequent or prior period. In the event that Borrower is 
+obligated to pay any additional amounts described in this Section 2.9 in respect of the Loan, the applicable 
+Lender shall, at no cost to such Lender, make commercially reasonable efforts to designate another of its lending 
+offices to be the Applicable Lending Office of such Lender if, in the reasonable judgment of such Lender, doing 
+so would avoid or materially reduce 
+  
+35 
+ 
+such additional amounts payable by Borrower and would not be disadvantageous to such Lender. Nothing in the 
+immediately foregoing sentence shall postpone Borrower’s obligation to pay such additional amounts as and 
+when they become payable hereunder. 
+SECTION 2.10. Unavailability of LIBOR; Illegality. 
+(a) Unavailability of LIBOR. If on any date on which Borrower seeks to establish a LIBOR Rate 
+as the Applicable Interest Rate pursuant to Section 2.3 hereof or if Section 2.3(d) hereof applies, Agent 
+determines (which determination shall be conclusive and binding upon Borrower absent manifest error) that 
+(i) Dollar deposits in an amount approximately equal to the then outstanding principal balance of the Loan 
+Portion bearing interest at a LIBOR Rate are not generally available at such time in the London interbank 
+Eurodollar market for deposits in Eurodollars, (ii) reasonable means do not exist for ascertaining LIBOR, or 
+(iii) the Applicable Interest Rate would be in excess of the maximum interest rate which Borrower may by law 
+pay, Agent shall promptly give notice (the “Non-Availability Notice”) of such fact to Borrower and the option 
+to convert to or to continue the Applicable Interest Rate on such Loan Portion as a LIBOR Rate shall be 
+suspended until such time as such condition no longer exists. In the event that the option to elect, to convert to 
+or to continue an Applicable Interest Rate as a LIBOR Rate shall be suspended as provided in 
+this Section 2.10(a), effective upon the giving of the Non-Availability Notice, and if applicable, effective as of 
+the first date that the one (1) month LIBOR Rate Period would otherwise be in effect pursuant 
+to Section 2.3(d) hereof, interest on the Loan Portion for which a LIBOR Rate was to be determined shall be 
+payable at the Base Rate, from and including the date of the giving of the Non-Availability Notice (or the date 
+that the one (1) month LIBOR Rate Period would otherwise be in effect pursuant to Section 2.3(d) hereof, if 
+applicable) until the Maturity Date or until any earlier date on which a LIBOR Rate shall become effective for 
+such Loan Portion pursuant to Section 2.3 hereof following the giving of notice by Agent to Borrower that the 
+conditions referred to in this Section 2.10(a) no longer exist (Agent agreeing to give prompt notice to Borrower 
+if such conditions no longer exist). 
+(b) Illegality. In the event that at any time while any Loan Portion bears interest at a LIBOR Rate, 
+any Lender determines (which determination shall be conclusive and binding on Borrower) that it shall become 
+illegal for such Lender to maintain the Loan or a portion thereof on the basis of one or more LIBOR Rates, 
+Agent shall promptly after receiving notice thereof from such Lender give notice of such fact to Borrower, and 
+the option to elect, to convert to or to continue the Applicable Interest Rate on any Loan Portion as a LIBOR 
+Rate shall be suspended until such time as such condition shall no longer exist (Agent agreeing to give prompt 
+notice to Borrower if such conditions no longer exist). In the case of existing Loan Portions affected by the 
+circumstances described in the immediately preceding sentence, the Applicable Interest Rate on such Loan 
+Portion shall be converted automatically to the Base Rate (unless such Lender determines that such conversion 
+is not required with respect to any existing Loan Portion) and shall be payable at the Base Rate in the same 
+manner as provided in Section 2.10(a) hereof. 
+  
+36 
+ 
+SECTION 2.11. Increased Costs and Capital Adequacy. 
+(a) Borrower agrees to pay Agent additional amounts (without duplication of any other amounts 
+payable in respect of increased costs pursuant to this Loan Agreement) as Agent shall reasonably determine will compensate Lenders for additional costs incurred in maintaining the Loan or any portion thereof outstanding or 
+for the reduction of any amounts received or receivable as a result of any change after the date hereof in any 
+applicable law, regulation or treaty, or in the interpretation or administration thereof by any domestic or foreign 
+governmental authority charged with the interpretation or administration thereof (whether or not having the 
+force of law), or by any domestic or foreign court, (i) changing the basis of taxation of payments to any Lender 
+(other than taxes imposed on all or any portion of the overall net income of any Lender by the United States or 
+by any political subdivision or taxing authority of the United States), (ii) imposing, modifying or applying any 
+reserve, special deposit or similar requirement against assets of, deposits with or for the account of, credit 
+extended by, or any other acquisition of funds for loans by any Lender (whether directly, indirectly or on a 
+portfolio wide basis) or (iii) imposing on any Lender any other condition affecting the Note or the Loan. 
+(b) If any Lender shall determine in good faith that (i) any change enacted after the date hereof in 
+the application of any law, rule, regulation or guideline adopted or arising out of the July 1988 report of the 
+Basel Committee on Banking Regulations and Supervisory Practices entitled “International Convergence of 
+Capital Measurement and Capital Standards,” including the draft Capital Accord proposed to replace such 
+report, or any change in the interpretation or administration thereof by any domestic or foreign governmental 
+authority, central bank or comparable agency charged with the interpretation or administration thereof, (ii) any 
+change in or adoption of any other law, rule, regulation or guideline regarding capital adequacy enacted after the 
+date hereof, or (iii) compliance by any Lender, or any lending office of any Lender, or the holding company of 
+any Lender, with any request or directive regarding capital adequacy (whether or not having the force of law) of 
+any such authority, central bank or comparable agency based on any such change or adoption, has or would 
+have the effect of reducing the rate of return on any Lender’s capital to a level below that which such Lender 
+would have achieved but for such adoption, change or compliance (taking into consideration the policies of such 
+Lender with respect to capital adequacy), then from time to time Borrower shall pay to Agent such additional 
+amounts (without duplication of any other amounts payable pursuant to this Loan Agreement) as will 
+compensate Lenders for such actual reduction with respect to any portion of the Loan outstanding. 
+(c) Any amount payable by Borrower pursuant to Section 2.11(a) or (b) hereof shall be paid to 
+Agent within ten (10) Business Days of receipt by Borrower of a certificate of Agent setting forth the applicable 
+law, change or other matter giving rise to such amount as described herein, the amount due, and Agent’s basis 
+for the determination of such amount, which statement shall be conclusive and binding upon Borrower absent 
+manifest error. Failure on the part of Agent to demand payment from Borrower for any such amount attributable 
+to any particular period shall not constitute a waiver of Agent’s right to demand payment of such amount for any 
+subsequent or prior period. 
+(d) Notwithstanding Sections 2.11(a) and (b) hereof, (i) all requests, rules, guidelines or directions 
+under or in connection with the Dodd-Frank Wall Street Reform and 
+  
+37 
+ 
+Consumer Protection Act shall be deemed not to have been the subject of any request or directive implemented 
+or any change having occurred prior to the date hereof and (ii) any change based on the reports and supporting 
+documentation of the Basel Committee on Banking Supervision of December 2009 entitled “Strengthening the 
+Resilience of the Banking Sector” and “International Framework for Liquidity Risk Measurement, Standards 
+and Monitoring”, in each case together with any amendments thereto, shall not be deemed to have occurred on 
+or prior to the Closing Date. 
+SECTION 2.12. Usury. The Note, this Loan Agreement, the Mortgage, and the other Loan 
+Documents are subject to the express condition that at no time shall Borrower be obligated or required to pay 
+interest on the Obligations at a rate which could subject any Lender to either civil or criminal liability as a result 
+of being in excess of the maximum interest rate which Borrower is permitted by law to contract for or to agree 
+to pay. If by the terms of the Note, this Loan Agreement, the Mortgage or any other Loan Document, Borrower 
+is at any time required or obligated to pay interest at a rate in excess of such maximum rate, the rate of interest 
+shall be deemed to be immediately reduced to such maximum rate and, to the extent not prohibited by law, the 
+interest payments in excess of such maximum rate and shall be applied and shall be deemed to have been 
+payments in reduction of principal. 
+SECTION 2.13. Closing. The Closing shall be held pursuant to an escrow with the Title Company. 
+SECTION 2.14. Loan Fee Letter. Borrower shall pay to Agent the fees provided for in the Loan 
+Fee Letter in accordance with the terms of this Loan Agreement and the Loan Fee Letter. SECTION 2.15. Cash Sweep Provisions. On the third (3rd) Payment Date following any Testing 
+Determination Date as of which a Cash Sweep Condition is determined or deemed to exist, and thereafter on 
+each of the two (2) immediately succeeding Payment Dates, in addition to all other amounts then due and 
+owing, Borrower shall (i) deposit into the Cash Sweep Account an amount (the “Applicable Excess Amount”) 
+equal to the lesser of (A) all Excess Cash Flow with respect to the calendar month ending immediately prior to 
+the calendar month immediately prior to such applicable Payment Date, as adjusted for seasonal variations in a 
+manner and amount reasonably agreed upon by Borrower and Agent, and (B) the Cash Sweep Limit and 
+(ii) deliver to Agent a certificate setting forth in reasonable detail Borrower’s calculation of Excess Cash Flow 
+and the Applicable Excess Amount; provided, however, that in any event, Borrower shall in addition make a 
+deposit into the Cash Sweep Account on the first two (2) Payment Dates following the Closing Date, in each 
+th
+case in an amount as determined pursuant to the preceding clause (A). On the fifth (5 ) Payment Date following 
+each Testing Determination Date as of which a Cash Sweep Condition is determined or deemed to exist (but 
+subject to the last sentence of this Section 2.15), all amounts on deposit in the Cash Sweep Account shall be 
+applied by Agent to the reduction of the outstanding principal balance of the Loan or, if Agent permits in its sole 
+discretion, be disbursed by Agent to pay or reimburse Borrower for operating shortfalls of the Premises for any 
+th
+month during the period from the applicable Testing Determination Date to such fifth (5 ) following Payment 
+Date. Concurrently with any such application to principal, Borrower shall pay to Agent all sums required to be 
+paid pursuant to, and shall otherwise comply with, Section 2.4(f) hereof, but no Spread Maintenance 
+  
+38 
+ 
+Fee shall be applicable. In illustration of the foregoing, in the event that the Testing Determination Date with 
+respect to which a Cash Sweep Condition exists would be March 31, (x) the third (3rd) Payment Date following 
+such Testing Determination Date would be the first (1st) Business Day of June and the applicable calendar 
+month for which Applicable Excess Amount would be deposited on such Payment Date would be April, (y) the 
+first immediately succeeding Payment Date thereafter would be the first (1st) Business Day of July and the 
+applicable calendar month for which Applicable Excess Amount would be deposited on such Payment Date 
+would be May, and (z) the second immediately succeeding Payment Date thereafter would be the first 
+(1st) Business Day of August and the applicable calendar month for which Applicable Excess Amount would be 
+st
+deposited on such Payment Date would be June (and on the first (1 ) Business Day of August, all funds in the 
+Cash Sweep Account, including those deposited on that date, will be applied to principal (or disbursed to pay or 
+reimburse operating shortfalls) as aforesaid); provided, that, the Applicable Excess Amounts to be deposited on 
+the Payment Dates occurring on the first (1st) Business Day of June, July and August would be deposited even 
+if no Cash Sweep Condition exists as of the June 30th Testing Determination Date; provided, further, that, in the 
+event that a Cash Sweep Condition exists as of the June 30th Testing Determination Date, Borrower shall 
+continue to deposit the Applicable Excess Amounts with respect to the applicable calendar months of July, 
+August and September on the Payment Dates occurring on the first (1st) Business Day of each of September, 
+October and November, respectively. Disbursements from the Cash Sweep Account to reimburse Borrower for 
+operating shortfalls as provided above shall be conditioned on, among other things, the absence of any First Tier 
+Default or Event of Default and Agent’s receipt of a request for disbursement, in form and substance 
+satisfactory to Agent, accompanied by such supporting documentation as Agent shall require. Promptly 
+following termination of a Cash Sweep Condition, provided there exists no Event of Default, Agent shall remit 
+to Borrower all sums in the Cash Sweep Account. 
+SECTION 2.16. FF&E Reserve Account. 
+(a) On the Closing Date, Borrower shall cause to be deposited all sums in its pre-existing capital 
+reserve or similar account (if any) into an interest-bearing account or sub-account at Agent (the “FF&E Reserve 
+Account”). Thereafter, on each Payment Date, and in addition to all other amounts then due and owing, 
+Borrower shall (i) deposit into the FF&E Reserve Account, in cash or other immediately available funds, the 
+FF&E Reserve Amount for the second (2nd) calendar month immediately prior to such Payment Date (e.g., the 
+payment due on March 1, shall be the FF&E Reserve Amount for the preceding January) and (ii) deliver to 
+Agent a certificate setting forth in reasonable detail Borrower’s calculation of such FF&E Reserve Amount. 
+Interest on the FF&E Reserve Account shall be deposited therein and become part of the funds therein. 
+(b) From time to time, but no more frequently than once per calendar month, Borrower may submit 
+to Agent a FF&E Disbursement Request with respect to FF&E Expenditures and/or Capital Expenditures. So 
+long as the expenditures that are the subject of such FF&E Disbursement Request are Approved FF&E 
+Expenditures or Approved Capital Expenditures, Agent shall disburse to Borrower from the available balance of 
+the FF&E Reserve Account an amount equal to the Approved FF&E Expenditures and/or Approved Capital Expenditures which were requested in such FF&E Disbursement Request. Additionally, in the event of an 
+emergency or other unexpected event at the Premises that requires Borrower to make 
+  
+39 
+ 
+an emergency Capital Expenditure or FF&E Expenditure in order to protect or secure the Premises, property 
+contained therein or the life and safety of Persons at the Premises, or in order to maintain the normal operation 
+of the Premises, Borrower may request a disbursement from the FF&E Reserve Account to pay or reimburse 
+Borrower for such expenditure to the extent of funds on deposit in the FF&E Reserve Account by submitting a 
+FF&E Disbursement Request for same, together with an explanation of the emergency or event, the proposed 
+Capital Expenditure or FF&E Expenditure and such other information Agent reasonably 
+requests; provided, however, that the foregoing shall not include emergencies or other unexpected events that 
+are, or arise from, a Casualty or other insured event (or event that would have been insured if the Insurance 
+Policies were in effect) or a Taking. Borrower shall use disbursements from the FF&E Reserve Account solely 
+for the purpose of paying those amounts specified in each FF&E Disbursement Request or reimbursing 
+Borrower for such amounts. Notwithstanding the foregoing, upon the occurrence and during the continuance of 
+an Event of Default, Agent shall have no obligation to make any disbursement from the FF&E Reserve Account. 
+Agent’s concurrence with any FF&E Disbursement Request shall not be deemed to constitute a representation 
+that no Default or Event of Default has occurred and/or is continuing or a waiver of any Default or Event of 
+Default or any right or remedy resulting therefrom. 
+(c) Upon the occurrence and during the continuance of an Event of Default, Agent may apply any 
+funds on deposit in the FF&E Reserve Account as set forth in Section 8.5 hereof and shall have all other rights 
+and remedies with respect to the FF&E Reserve Account specified in this Loan Agreement and in any other 
+Loan Document, at law and in equity. 
+SECTION 2.17. Collection and Operating Accounts. 
+(a) Borrower shall cause all Gross Revenue and all other profits, issues, accounts, accounts 
+receivable, income, receipts and revenues of Borrower to be paid and deposited directly into the Collection 
+Account. If Borrower actually receives any of the foregoing, Borrower shall cause same to be deposited into the 
+Collection Account within two (2) Business Days after receipt. Borrower shall deliver to Agent an Account 
+Agreement with respect to the Collection Account, executed by Borrower and, if applicable, Property Manager, 
+and the depository at which the Collection Account is held if not at Agent. Borrower shall also deliver to Agent 
+a Credit Card Servicer Agreement from each credit card company, servicer or agency used by Borrower and/or 
+Property Manager, executed by Borrower and/or Property Manager, as applicable, and such credit card 
+company, servicer or agency promptly after engaging same. 
+(b) Borrower shall not, and shall not permit Property Manager to, close the Collection Account or 
+open any additional Collection Account without the prior consent of Agent. Within three (3) Business Days after 
+notice from Agent at any time upon the occurrence and during the continuance of or after the occurrence of an 
+Event of Default, Borrower shall cause the Collection Account to be held at Agent or another depository bank 
+satisfactory to Agent in its sole discretion. 
+(c) So long as no Event of Default shall have occurred and be continuing and Agent shall not have 
+notified Borrower pursuant to Section 8.5 hereof that Borrower’s right to receive funds from the Collection 
+Account is terminated, funds shall be swept from the 
+  
+40 
+ 
+Collection Account to the Operating Account. Property Manager may from time to time make withdrawals from 
+the Operating Account (i) to pay reasonable or necessary expenses incurred by Borrower or Property Manager 
+(without duplication) in the ownership, maintenance, use, operation and leasing of the Premises as shown in the 
+then-applicable annual operating budget for the Premises, (ii) to pay Debt Service and other sums in respect of 
+the Obligations, (iii) to pay for alterations and other Capital Expenditures and FF&E and (iv) to make 
+distributions to or to pay or repay loans from Borrower’s members and for any other purposes of Borrower, 
+subject, however, to any limitations and prohibitions on withdrawals and use of funds set forth in this Loan 
+Agreement and the other Loan Documents. Upon the occurrence and during the continuance of an Event of 
+Default and notice from Agent as aforesaid, Borrower shall not, and shall not permit any other Person to, receive 
+funds from the Collection Account except as may be approved by Agent in writing. To the extent any funds 
+were withdrawn by or on behalf of Borrower or Property Manager from the Collection Account after the occurrence of an Event of Default and notice from Agent as aforesaid, Borrower shall cause the withdrawn 
+funds to be redeposited in the Collection Account. Upon the occurrence and during the continuance of an Event 
+of Default, Agent may apply any funds on deposit in the Collection Account as set forth in Section 8.5 hereof 
+and shall have all other rights and remedies with respect to the Collection Account specified in this Loan 
+Agreement and in any other Loan Document, at law and in equity. 
+(d) Notwithstanding anything herein to the contrary, Borrower shall not, and shall not permit 
+Property Manager to, make any withdrawals from the Operating Account or use any Gross Revenues or other 
+profits, issues, accounts, accounts receivable, income, receipts, revenues or security deposits in contravention of 
+this Loan Agreement or any other Loan Document. Borrower shall cause each and every withdrawal from the 
+Operating Account by Borrower and Property Manager to be used for the purpose for which such withdrawal 
+was made and for no other purpose. 
+SECTION 2.18. Tenant Security Account. 
+(a) Borrower shall comply with all Legal Requirements and the applicable Lease applicable to any 
+security given under any Lease. Subject to the foregoing, Borrower shall deposit or cause to be deposited all 
+Security Deposits under the Major Leases into an account with a bank or other financial institution approved by 
+Agent (the “Tenant Security Account”) within two (2) Business Days after receipt. 
+(b) Borrower may make withdrawals from the Tenant Security Account at such time as no Event of 
+Default has occurred and is continuing provided the proceeds are (i) applied in the ordinary course of business 
+to sums due under the applicable Lease when the terms of such Lease or applicable Legal Requirements permit 
+the application thereof or (ii) returned to the applicable Lessee pursuant to Legal Requirements or the terms of 
+the applicable Lease which require Borrower to return such other Security Deposit. After the occurrence and 
+during the continuation of an Event of Default, neither Borrower nor any other Person shall have any right to, 
+and Borrower covenants that it shall not, and shall not permit Property Manager to, withdraw any amounts from 
+the Tenant Security Account or apply any Security Deposits, except as may be approved by Agent. However, if 
+an Event of Default exists but Borrower is required pursuant to the terms of the applicable Lease or applicable 
+Legal 
+  
+41 
+ 
+Requirements to return any Security Deposit to the applicable Lessee, Borrower shall deliver a notice to Agent 
+certifying same and stating the reason therefor, and Agent shall, at Agent’s option and at Borrower’s sole cost 
+and expense, either permit Borrower to return the Security Deposit to the applicable Lessee or, if Agent elects, 
+cause such Security Deposit to be returned directly to the applicable Lessee. Upon the occurrence and during the 
+continuance of an Event of Default, Agent may apply any funds on deposit in the Tenant Security Account as 
+set forth in Section 8.5 hereof and shall have all other rights and remedies with respect to the Tenant Security 
+Account specified in this Loan Agreement and in any other Loan Document, at law and in equity, subject to the 
+rights of the Lessees under Major Leases in their Security Deposits. Upon payment in full of the Obligations, 
+and at Borrower’s sole cost and expense, Agent shall return any Security Deposits held by it to Borrower. 
+(c) Borrower shall transfer to the name of Agent and deliver to Agent all original Lease Letters of 
+Credit under each Major Lease promptly after receipt of same, together with evidence that all fees payable to the 
+issuer on account of such assignment and transfer have been paid. All such Lease Letters of Credit shall be 
+transferable by their terms. Borrower hereby grants to Agent and Lenders a security interest in all rights of 
+Borrower in and to all Lease Letters of Credit, including all proceeds thereof, as additional security for the 
+Obligations. In addition to all other rights and remedies of Agent and Lenders, Agent may, and to the extent 
+necessary in order to do so, Borrower hereby grants to Agent, effective from the occurrence and during the 
+continuance of an Event of Default, an irrevocable power of attorney, coupled with an interest, and Agent shall 
+be entitled to act pursuant to such power following an Event of Default that shall have occurred and be 
+continuing by reason of a failure to comply with the terms of this Section 2.18(c), solely to draw upon or 
+otherwise realize on each such Lease Letters of Credit in accordance with its terms and those of the applicable 
+Lease. 
+(d) Borrower shall hold and apply all Lease Letters of Credit and the proceeds thereof subject to the 
+same terms and conditions as Security Deposits pursuant to Section 2.18(a) and (b) hereof. Additionally, 
+Borrower may draw on any Lease Letter of Credit in its possession if the issuer has elected to cancel or not 
+renew such Lease Letter of Credit, provided that the proceeds thereof are held as a Security Deposit in 
+accordance with Section 2.18(a) and (b) hereof. If Borrower delivered a Lease Letter of Credit to Agent, and 
+(i) Borrower is entitled to make a drawing on such Lease Letter of Credit under the terms of the applicable Lease, such Lease Letter of Credit or applicable Legal Requirements, and (ii) no Event of Default shall have 
+occurred and be continuing, Agent shall, at Borrower’s sole cost and expense, re-transfer such Lease Letter of 
+Credit to Borrower in trust for the benefit of Agent and subject to Agent’s security interest, provided that 
+Borrower delivers to Agent a written request certifying compliance with the conditions set forth in the 
+foregoing clauses (i) and (ii), and indicating the applicable Lease and Letter of Credit, the amount of the draw 
+and the reasons for such draw. Borrower shall hold any such Lease Letter of Credit solely for the purpose of 
+drawing or realizing thereon in accordance with the provisions of the applicable Lease or Lease Letter of Credit 
+and Legal Requirements and shall apply the proceeds thereof in the ordinary course of business to sums due 
+under the applicable Lease in conformance with the requirements of the terms thereof and applicable Legal 
+Requirements. If such draw is to be made because the issuer has elected to cancel or not renew such Lease 
+Letter of Credit, a copy of such notice of election to cancel or not renew shall also be delivered to Agent 
+together with Borrower’s request. If any proceeds of such Lease Letter of Credit are paid to Agent instead of 
+Borrower, Agent shall 
+  
+42 
+ 
+transfer same to Borrower provided no Event of Default shall have occurred and be continuing for application as 
+provided in Section 2.18(a) and (b) hereof. The original of any such Lease Letters of Credit (to the extent not 
+fully drawn) shall be promptly re-assigned, transferred and re-delivered to Agent. Borrower shall promptly 
+deposit the proceeds of any such drawing into the Collection Account, unless the drawing is being made to 
+liquidate any Lease Letter of Credit because the issuer thereof has elected to cancel or not to renew same or for 
+any other reason not arising from a default by the Lessee, in which case Borrower shall deposit such proceeds in 
+the Tenant Security Account. If Borrower is required by the terms of the applicable Leases or applicable Legal 
+Requirements to return any Lease Letter of Credit previously delivered to Agent to the Lessee, Agent shall, at 
+Borrower’s sole cost and expense, re-assign and transfer and deliver possession of such original Lease Letter of 
+Credit to Borrower provided Borrower delivers to Agent a written request for same, certifying the foregoing and 
+indicating the applicable Lease and Letter of Credit and the reasons for such return. Borrower shall promptly 
+return the same to the applicable Lessee. At Agent’s election and at Borrower’s sole cost and expense, instead of 
+delivering such Lease Letter of Credit to Borrower, Agent shall return same to the applicable Lessee. If a Lease 
+permits a Lessee to re-post a new Lease Letter of Credit, or to amend an existing Lease Letter of Credit, Agent 
+will permit same and cooperate with Borrower to effect same, at Borrower’s sole cost and expense. Upon 
+payment in full of the Obligations and at Borrower’s sole cost and expense, Agent shall return any Lease Letter 
+of Credit held by it to Borrower. 
+SECTION 2.19. Accounts. Borrower hereby grants to Agent a security interest in all rights of 
+Borrower in and to the Accounts (other than the Operating Account) and all sums on deposit therein as 
+additional security for the Obligations. Borrower shall cause all banks or financial institutions other than Agent 
+which are holding any Account (other than the Operating Account) to execute and deliver to Agent an Account 
+Agreement with respect to such Account. Subject to the rights of Borrower expressly set forth herein to receive 
+funds and make and permit others to make withdrawals from the Accounts, Borrower hereby acknowledges and 
+agrees that Agent shall have sole dominion and control of the Accounts (other than the Operating Account). 
+Borrower shall not close any Account without obtaining the prior written consent of Agent. Borrower shall not 
+open any Account in substitution for or in addition to any Account set forth in Schedule 5.11 attached hereto 
+without Agent’s prior consent. Notwithstanding the foregoing, with respect to any Operating Account and the 
+Tenant Security Account, Borrower may open new Account(s) to serve as the Operating Account or the Tenant 
+Security Account without Agent’s consent provided that (a) Borrower gives Agent at least ten (10) Business 
+Days prior notice of Borrower’s intention to open a new Account, (b) the bank or other financial institution at 
+which such Account is to be opened is reasonably acceptable to Agent and (c) with respect to the Tenant 
+Security Account only, prior to the opening of such Account, Borrower shall have delivered to Agent an 
+Account Agreement with respect to such Account executed by it and Property Manager if applicable and such 
+bank or other financial institution. Borrower shall maintain the Accounts and shall pay all fees and charges with 
+respect thereto when due, and shall keep in full force and effect the Account Agreement with respect thereto, if 
+applicable, except any Account which is closed in accordance with this Section 2.19. All interest earned on 
+amounts deposited in any Account shall be re-deposited therein and become part thereof. No funds in any 
+Account (other than the Operating Account) not held by Agent may be commingled with any other funds of 
+Borrower, Property Manager, any Affiliate of Borrower or Property Manager or any other Person or with any 
+funds contained in any other Account not held by 
+  
+43 
+ Agent. Upon the occurrence and during the continuance of an Event of Default, Agent may apply any funds on 
+deposit in the Accounts (other than the Operating Account) as set forth in Section 8.5 hereof and shall have all 
+other rights and remedies with respect to the Accounts specified in this Loan Agreement and in any other Loan 
+Document, at law and in equity. Neither Agent nor Lenders shall be liable for any loss of interest on or any 
+penalty or charge assessed against the funds in, payable on, or credited to any Account as a result of the exercise 
+by Agent of any of its rights, remedies or obligations hereunder or under any other Loan Document, except as 
+may arise from the gross negligence or willful misconduct of Agent or any Lender. Upon payment in full of the 
+Obligations, at Borrower’s sole cost and expense, (i) if any Account is subject to an Account Agreement, Agent 
+shall deliver a notice of termination of its security interest to the financial institution that is the party to such 
+Account Agreement and (ii) if any Account is held at Agent, Agent shall release the funds on deposit therein to 
+Borrower, free of the security interest provided for herein. 
+SECTION 2.20. Extension of Loan. 
+(a) Generally. Subject to the conditions set forth in this Section 2.20, Borrower shall have one 
+(1) option to extend the Initial Maturity Date. Such option shall be exercisable as provided 
+in Section 2.20(b) hereof and shall extend the Initial Maturity Date to July 15, 2023 (such extension period is 
+referred to herein as the “Extension Term”). 
+(b) Conditions to Extension Term. Borrower’s option to extend the Term for the Extension Term 
+as referred to in Section 2.20(a) hereof shall be subject to the following conditions being satisfied by Borrower 
+at its sole cost and expense to the satisfaction of Agent, except to the extent that Agent may elect (which 
+election may be made without written or express notice of such waiver) to waive any of the following 
+conditions, on or prior to the Initial Maturity Date (or such other date as may be expressly provided): 
+(i) Borrower shall have delivered to Agent an irrevocable written notice of Borrower’s 
+election to so extend the Term no later than ninety (90) days prior to the Initial Maturity Date; 
+(ii) The Property Leverage Ratio as of the most recent Testing Determination Date prior to 
+the Initial Maturity Date for which Borrower is required to have delivered, as of the Initial Maturity Date, 
+quarterly financial statements and a quarterly compliance statement pursuant to Section 7.1(b) and (c) hereof 
+shall be no greater than 6.00:1.00 and Borrower shall have delivered to Agent a certificate, in form and 
+substance satisfactory to Agent, containing a computation of the Property Leverage Ratio evidencing the same, 
+together with such supporting documentation as Agent may reasonably request (it being acknowledged that, if 
+necessary, Borrower may make a voluntary prepayment of the Loan in accordance with Section 2.4(c) hereof in 
+an amount so as to satisfy the condition set forth in this clause (ii)); 
+(iii) The Assumed Debt Service Coverage Ratio as of the most recent Testing Determination 
+Date prior to the Initial Maturity Date for which Borrower is required to have delivered, as of the Initial 
+Maturity Date, quarterly financial statements and a quarterly compliance statement pursuant 
+to Section 7.1(b) and (c) hereof shall be at least 1:40:1.00 and Borrower shall have delivered to Agent a 
+certificate, in form and substance satisfactory to Agent, 
+  
+44 
+ 
+containing a computation of the Assumed Debt Service Coverage Ratio evidencing the same, together with such 
+supporting documentation as Agent may reasonably request (it being acknowledged that, if necessary, Borrower 
+may make a voluntary prepayment of the Loan in accordance with Section 2.4(c) hereof in an amount so as to 
+satisfy the condition set forth in this clause (iii)); 
+(iv) The Loan-to-Value Ratio, based on an Appraisal or Appraisal Update, in each case 
+dated no more than ninety days (90) days prior to the Initial Maturity Date, shall be no greater than fifty-five 
+percent (55%) (it being acknowledged that, if necessary, Borrower may make a voluntary prepayment of the 
+Loan in accordance with Section 2.4(c) hereof in an amount so as to satisfy the condition set forth in 
+this clause (iv)); 
+(v) Borrower shall have taken and completed all action required to be taken to cause an 
+Interest Rate Protection Agreement to be in full force and effect which shall cap the Applicable Interest Rate at a 
+rate reasonably satisfactory to the Requisite Lenders (after consultation with Borrower and based upon a fixed 
+or capped interest rate that would result in an Assumed Debt Service Coverage Ratio of at least 1.40:1.00, 
+computed, however, based on pro-forma Net Operating Income for the Extension Term) and otherwise satisfy 
+all of the conditions set forth in Section 2.6(a) hereof through and including the expiration of the Extension Term, without regard to any time period set forth in Section 2.6 hereof by which such Interest Rate Protection 
+Agreement is required to be in effect or any other action must be completed; 
+(vi) No Default or Event of Default shall have occurred and be continuing, and no Cash 
+Sweep Condition shall exist, as of the Initial Maturity Date; 
+(vii) All representations and warranties made by Borrower and each Guarantor in the Loan 
+Documents (and any certificate, document or financial or any other statement furnished pursuant to or in 
+connection therewith) shall be true and correct in all material respects on and as of the Initial Maturity Date with 
+the same force and effect as if made on and as of such date; provided that to the extent such representations are 
+no longer true due to changes in factual circumstances that (x) have been disclosed by notice from Borrower to 
+Agent, (y) do not constitute or are not the result of a Default or Event of Default and (z) do not have a Material 
+Adverse Effect, then such representations and warranties shall be deemed to be updated to reflect such changes 
+in circumstances; 
+(viii) Borrower shall have delivered to Agent a Title Continuation, dated as of the first day 
+of the Extension Term; 
+(ix) Borrower shall have delivered to Agent at least ten (10) Business Days prior to the 
+Initial Maturity Date current tax lien, Uniform Commercial Code, bankruptcy and judgment searches against 
+Borrower, Borrower Member, Guarantors and such other Persons required by Agent in such jurisdictions 
+required by Agent, which searches shall be reasonably acceptable in content to Agent; 
+(x) Borrower shall have paid to Agent the Extension Fee and all reasonable costs and 
+expenses, including Agent’s Counsel Fees, incurred in connection with such extension on or prior to the Initial 
+Maturity Date; 
+  
+45 
+ 
+(xi) Borrower shall have delivered to Agent on or prior to the Initial Maturity Date, a 
+certificate of a duly authorized officer of Borrower, satisfactory to Agent, certifying as to the matters set forth 
+in clauses (ii) through (ix) above, a certificate from each Guarantor certifying as to its representations and 
+warranties as provided in clause (vii) above and any other documents reasonably required by Agent to evidence 
+satisfaction of the conditions in this Section 2.20(b); and 
+(xii) No material Taking with respect to which Restoration has not been completed or any 
+material and adverse modification, realignment or relocation of any streets or roadways abutting the Premises or 
+such other property or material denial of access to the Premises or such other property from any point of access 
+(public or private), shall have occurred or be threatened in writing or pending. 
